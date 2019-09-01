@@ -30,12 +30,12 @@ Policy decisions always require trade-offs and some are more difficult than othe
 
 What are some examples, you ask?
 
-![](./syllabus/sat-lights-africa.jpg "City lights")<br>
+![](sat-lights-africa.jpg "City lights")<br>
 _Source: [NASA Earth Observatory](https://earthobservatory.nasa.gov/images/79793/city-lights-of-africa-europe-and-the-middle-east)_
 
 Do the benefits of rural electrification in sub-Saharan Africa outweigh the costs? Does the answer depend on how well financial markets function? On the quality of the institutions? On the efficiency of the utility providing the services? On the projected income growth for households in the region? Should we consider the alternative ways in which the government could spend their scarce resources?
 
-![Electrification](/syllabus/rural_electrification.png "Rural electrification")<br>
+![Electrification](rural_electrification.png "Rural electrification")<br>
 _Source: [Lee et al. (2019)](https://www.journals.uchicago.edu/doi/abs/10.1086/705417)_
 
 [Back to top](#Syllabus)
