@@ -43,7 +43,7 @@ Does the answer depend on how well financial markets function? On the quality of
 _Source: [NASA Earth Observatory](https://earthobservatory.nasa.gov/images/79793/city-lights-of-africa-europe-and-the-middle-east)_
 </details>
 
-[Back to top](#Index)
+[Back to top](#index)
 
 
 ## Course objectives
@@ -76,7 +76,7 @@ We will work together towards achieving several goals. By the end of the semeste
 *   improve your ability to complete high quality group projects, including demonstration of effective project management and teamwork.
 </details>
 
-[Back to top](#Index)
+[Back to top](#index)
 
 ## Course requirements & grades
 
