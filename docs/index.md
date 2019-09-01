@@ -43,7 +43,7 @@ Does the answer depend on how well financial markets function? On the quality of
 _Source: [NASA Earth Observatory](https://earthobservatory.nasa.gov/images/79793/city-lights-of-africa-europe-and-the-middle-east)_
 </details>
 
-[Back to top](#Index)
+[Back to top](##Index)
 
 
 ## Course objectives
