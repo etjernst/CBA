@@ -21,6 +21,8 @@ Graduate/professional standing and PA818 & PA880, or POP HLTH/ISYE 875, or AAE 6
 <p align="right" style="color:lightgrey;"> This version: September 1, 2019</p>
 
 ---
+## Index
+---
 
 ## What is cost-benefit analysis?
 
@@ -28,17 +30,20 @@ Cost-benefit analysis (CBA) is a technique for evaluating a project or investmen
 
 Policy decisions always require trade-offs and some are more difficult than others. Given scarce resources, how should policy-makers allocate funding? What are the opportunity costs of the funds? For example, if we devote more resources to reducing pollution, that money can no longer be used for improving education in public schools. CBA can be used as a decision rule to determine whether a project should be carried out, or to compare competing projects.<br>
 
-What are some examples, you ask?
+<details> <summary>What are some examples, you ask?</summary>
 
-![](sat-lights-africa.jpg "City lights")<br>
-_Source: [NASA Earth Observatory](https://earthobservatory.nasa.gov/images/79793/city-lights-of-africa-europe-and-the-middle-east)_
-
-Do the benefits of rural electrification in sub-Saharan Africa outweigh the costs? Does the answer depend on how well financial markets function? On the quality of the institutions? On the efficiency of the utility providing the services? On the projected income growth for households in the region? Should we consider the alternative ways in which the government could spend their scarce resources?
+Do the benefits of rural electrification in sub-Saharan Africa outweigh the costs?
 
 ![Electrification](rural_electrification.png "Rural electrification")<br>
 _Source: [Lee et al. (2019)](https://www.journals.uchicago.edu/doi/abs/10.1086/705417)_
 
-[Back to top](#Syllabus)
+Does the answer depend on how well financial markets function? On the quality of the institutions? On the efficiency of the utility providing the services? On the projected income growth for households in the region? Should we consider the alternative ways in which the government could spend their scarce resources?
+
+![](sat-lights-africa.jpg "City lights")<br>
+_Source: [NASA Earth Observatory](https://earthobservatory.nasa.gov/images/79793/city-lights-of-africa-europe-and-the-middle-east)_
+</details>
+
+[Back to top](#Index)
 
 
 ## Course objectives
@@ -71,7 +76,7 @@ We will work together towards achieving several goals. By the end of the semeste
 *   improve your ability to complete high quality group projects, including demonstration of effective project management and teamwork.
 </details>
 
-[Back to top](#Syllabus)
+[Back to top](#Index)
 
 ## Course requirements & grades
 
@@ -165,7 +170,7 @@ _Read BGVW, Chapter 17, to get an idea of available shadow prices from secondary
 </details>
 
 
-[Back to top](#Syllabus)
+[Back to top](#Index)
 
 ---
 ## Course materials
