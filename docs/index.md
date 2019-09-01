@@ -1,4 +1,5 @@
-## Welcome to PA 881 | International Cost-Benefit Analysis | Fall 2019
+## Welcome to PA 881
+## International Cost-Benefit Analysis | Fall 2019
 
 | Class details             | **Instructor details** |         
 | :---                      |                :--        |      
@@ -7,13 +8,15 @@
 | Office hours: Mondays 9:30-11:30 |  Email: tjernstroem@wisc.edu |
 | [Course website](https://etjernst.github.io/CBA/) |[Instructor website](https://www.lafollette.wisc.edu/sites/tjernstrom/) |
 
-_"I would add one word for any student beginning economic study who may be discouraged by the severity of the effort which the study, as he will find it exemplified here, seems to require of him. The complicated analyses which economists endeavour to carry through are not mere gymnastic. They are instruments for the bettering of human life."_<br>
-	-Pigou, Arthur C. "The economics of welfare, 1920." McMillan&Co., London (1932).<br>
+<p align="center" style="color:grey;">
+"I would add one word for any student beginning economic study who may be discouraged by the severity of the effort which the study, as he will find it exemplified here, seems to require of him. The complicated analyses which economists endeavour to carry through are not mere gymnastic. They are instruments for the bettering of human life."</p>
+<p align="right" style="color:grey;">
+	- Pigou, Arthur C. The economics of welfare, 1920.<br></p>
 
 ### Official course description
 Presents the welfare economics underpinnings for evaluating the social benefits and costs of government activities. Issues such as uncertainty, the social discount rate, and welfare weights will be discussed; case studies from the environmental, social policy, and agricultural areas will be studied.
 ### Official pre-requisites:
-Graduate/professional standing and (PUB AFFR 818 and 880), or POP HLTH/ISYE 875, or AAE 635
+Graduate/professional standing and PA818 & PA880, or POP HLTH/ISYE 875, or AAE 635.
 
 <p align="right" style="color:lightgrey;"> This version: September 1, 2019</p>
 
