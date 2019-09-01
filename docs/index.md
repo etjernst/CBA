@@ -1,13 +1,37 @@
-# Syllabus
-## PA881: International Cost-Benefit Analysis | Fall 2019
+## Welcome to GitHub Pages
 
-| Class details             | **Instructor details** |         
-| :---                      |                :--        |      
-| Meeting time: MW 8-9:15       | Instructor: Dr. Tjernström    |
-| Meeting location: Ingraham 222 | Office: Taylor Hall 520|
-| Office hours: Mondays 9:30-11:30 |  Email: tjernstroem@wisc.edu |
-| Course website:                   |[Website](https://www.lafollette.wisc.edu/sites/tjernstrom/) |
+You can use the [editor on GitHub](https://github.com/etjernst/CBA/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-This version: September 1, 2019
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
----
+### Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/etjernst/CBA/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
