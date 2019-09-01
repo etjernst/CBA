@@ -11,7 +11,7 @@
 <p align="center" style="color:grey;">
 "I would add one word for any student beginning economic study who may be discouraged by the severity of the effort which the study, as he will find it exemplified here, seems to require of him. The complicated analyses which economists endeavour to carry through are not mere gymnastic. They are instruments for the bettering of human life."</p>
 <p align="right" style="color:grey;">
-	- Pigou, Arthur C. The economics of welfare, 1920.<br></p>
+	- Pigou, Arthur C. The economics of welfare, 1920.<br></p>>
 
 ### Official course description
 Presents the welfare economics underpinnings for evaluating the social benefits and costs of government activities. Issues such as uncertainty, the social discount rate, and welfare weights will be discussed; case studies from the environmental, social policy, and agricultural areas will be studied.
@@ -28,15 +28,17 @@ Cost-benefit analysis (CBA) is a technique for evaluating a project or investmen
 
 Policy decisions always require trade-offs and some are more difficult than others. Given scarce resources, how should policy-makers allocate funding? What are the opportunity costs of the funds? For example, if we devote more resources to reducing pollution, that money can no longer be used for improving education in public schools. CBA can be used as a decision rule to determine whether a project should be carried out, or to compare competing projects.<br>
 
-What are some examples, you ask?
+<details> <summary>What are some examples, you ask?</summary>
 
-![](./syllabus/sat-lights-africa.jpg "City lights")<br>
+![](sat-lights-africa.jpg "City lights")<br>
 _Source: [NASA Earth Observatory](https://earthobservatory.nasa.gov/images/79793/city-lights-of-africa-europe-and-the-middle-east)_
 
 Do the benefits of rural electrification in sub-Saharan Africa outweigh the costs? Does the answer depend on how well financial markets function? On the quality of the institutions? On the efficiency of the utility providing the services? On the projected income growth for households in the region? Should we consider the alternative ways in which the government could spend their scarce resources?
 
-![Electrification](/syllabus/rural_electrification.png "Rural electrification")<br>
+![Electrification](rural_electrification.png "Rural electrification")<br>
 _Source: [Lee et al. (2019)](https://www.journals.uchicago.edu/doi/abs/10.1086/705417)_
+
+</details>
 
 [Back to top](#Syllabus)
 
