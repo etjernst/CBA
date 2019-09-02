@@ -2,14 +2,13 @@
 ## International Cost-Benefit Analysis | Fall 2019
 
 
- | Class details                  | Instructor details           |         
- | :---                           |                :--           |      
+ |    Class details                  | Instructor details       |         
+ |     ---                           |            --           |      
  | Meeting time: MW 8-9:15        | Instructor: Dr. Tjernström   |
- 
- 
  | Meeting location: Ingraham 222 | Office: Taylor Hall 520      |
  | Office hours: Mondays 9:30-11:30 |  Email: tjernstroem@wisc.edu |
  | [Course website](https://etjernst.github.io/CBA/) | [Instructor website](https://www.lafollette.wisc.edu/sites/tjernstrom/) |
+
 
 <p align="center" style="color:grey;">
 "I would add one word for any student beginning economic study who may be discouraged by the severity of the effort which the study, as he will find it exemplified here, seems to require of him. The complicated analyses which economists endeavour to carry through are not mere gymnastic. They are instruments for the bettering of human life."</p>
