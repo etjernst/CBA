@@ -5,6 +5,8 @@
  | Class details                  | Instructor details           |         
  | :---                           |                :--           |      
  | Meeting time: MW 8-9:15        | Instructor: Dr. Tjernström   |
+ 
+ 
  | Meeting location: Ingraham 222 | Office: Taylor Hall 520      |
  | Office hours: Mondays 9:30-11:30 |  Email: tjernstroem@wisc.edu |
  | [Course website](https://etjernst.github.io/CBA/) | [Instructor website](https://www.lafollette.wisc.edu/sites/tjernstrom/) |
