@@ -38,7 +38,7 @@ Graduate/professional standing and PA818 & PA880, or POP HLTH/ISYE 875, or AAE 6
 * Details<br>
     * [Course requirements & grading](#course-requirements)<br>
     * [Course materials](#course-materials)<br>
-    * [Schedule / overview](#schedule-overview)<br>
+    * [Schedule / overview](#schedule/overview)<br>
 [Diversity & inclusion](#diversity-and-inclusion)<br>
 [Academic integrity](#academic-integrity)<br>
 [Religious observances](#religious-observances)<br>
@@ -52,8 +52,7 @@ Cost-benefit analysis (CBA) is a technique for evaluating a project or investmen
 
 Policy decisions always require trade-offs and some are more difficult than others. Given scarce resources, how should policy-makers allocate funding? What are the opportunity costs of the funds? For example, if we devote more resources to reducing pollution, that money can no longer be used for improving education in public schools. CBA can be used as a decision rule to determine whether a project should be carried out, or to compare competing projects.<br>
 
-<details> 
-<summary> <span style="color: red;">What are some examples, you ask?
+<details><summary> <span style="color: black;">What are some examples, you ask?
 </span>
 </summary>
 
@@ -76,7 +75,10 @@ _Source: [NASA Earth Observatory](https://earthobservatory.nasa.gov/images/79793
 
 During the semester you will learn the basics of CBA. We will discuss the method's advantages and limitations. I hope that you will become critical consumers of CBAs, able to _(i)_ identify the weaknesses in someone else's analysis, and _(ii)_ suggest potential improvements.
 
-<details> <summary>More details</summary>
+<details>
+<summary>More details
+</summary>
+
 We will work together towards achieving several goals. By the end of the semester, I hope that you will:
 
 1.   ...grasp the main tools and concepts of CBA
@@ -231,11 +233,11 @@ If a religious observance will require that you miss class time, please notify m
 
 <span>![image](PA881_2018/Image_003.png)</span>
 
-# Detailed schedule of readings
+# Detailed schedule
 
 <span>![image](PA881_2018/Image_004.png)</span>
 
-## September 5
+## September 4
 
 Intro: What is Cost-Benefit Analysis? How is it used?
 
@@ -245,224 +247,6 @@ Intro: What is Cost-Benefit Analysis? How is it used?
 
     <span>![image](PA881_2018/Image_005.png)</span>
 
-    ## September 10
 
-    Discussion of past projects (details on Canvas)
-
-*   Past project reports (details on Canvas)
-
-*   BGVW, Chapter 8
-
-*   BGVW, Chapter 17 [skim]
-
-    <span>![image](PA881_2018/Image_006.png)</span>
-
-    ## September 12
-
-    Conceptual foundations of CBA
-
-*   BGVW, Chapter 2
-
-    *   End-of-chapter exercises 2, 3, and 4
-
-        <span>![image](PA881_2018/Image_007.png)</span>
-
-        ## September 17, 19, 24, 16 and Oct 1
-
-        Valuing C & B when markets exist - primary markets
-
-*   BGVW, Chapter 3 (Exercises 1 & 2; spreadsheet exercise 3 – spreadsheet on Canvas)
-
-*   BGVW, Chapter 4 (Spreadsheet exercise 2)
-
-*   BGVW, Case 4
-
-*   BGVW, Chapter 5 (Exercise 2)
-
-*   BGVW, Chapter 6 (Exercise 1)
-
-*   Robert H. Haveman and David L. Weimer, “Public Policy Induced Changes in Employment: Valuation Issues for Benefit-Cost Analysis,” Journal of Benefit-Cost Analysis 6(1) 2015, 112–153.
-
-    <span>![image](PA881_2018/Image_008.png)</span>
-
-    ## October 3
-
-    Valuing C & B when markets exist - secondary markets
-
-*   BGVW, Chapter 7 (Exercises 2 & 3; spreadsheet exercise 4)
-
-*   BGVW, Case 8
-
-    <span>![image](PA881_2018/Image_009.png)</span>
-
-    ## October 8 & 10
-
-    Discounting
-
-*   BGVW, Chapter 9 (Exercises 1, 2, 3 & 4; spreadsheet exercise 6)
-
-*   BGVW, Case 9
-
-*   BGVW, Chapter 10 (Spreadsheet exercise 1)
-
-*   Skim/scan the following:
-
-    *   [OMB Guidelines (](http://www.whitehouse.gov/omb/circulars_a004_a-4)link<span style=" color: #000;">)</span>
-
-    *   [UK Guidelines (The Green Book) (](http://www.gov.uk/government/publications/the-green-book-appraisal-and-evaluation-in-central-governent)link<span style=" color: #000;">)</span>
-
-    *   [Canadian Guidelines (](http://www.tbs-sct.gc.ca/rtrap-parfa/analys/analys07-eng.asp#Toc178397874)link<span style=" color: #000;">)</span>
-
-    *   [New Zealand Guidelines (](http://www.treasury.govt.nz/publications/guidance/planning/costbenefitanalysis/guide)link<span style=" color: #000;">)</span>
-
-    *   [Bureau of Labor Statistics CPI Calculator (](http://www.bls.gov/data/inflation_calculator.htm)link<span style=" color: #000;">)</span>
-
-        <span>![image](PA881_2018/Image_010.png)</span>
-
-        ## October 15, 17, and 22
-
-        Uncertainty (I): Expected values, value of information, sensitivity analysis
-
-*   BGVW, Chapter 11 (Exercises 1, 3, 4 & 6; spreadsheet 5)
-
-*   BGVW, Case 11
-
-*   [Consider WSIPP displayed results:](http://www.wsipp.wa.gov/BenefitCost) [http://www.wsipp.wa.gov/BenefitCost](http://www.wsipp.wa.gov/BenefitCost)
-
-*   David L. Weimer and Mark A. Sager, “Early Identification and Treatment of Alzheimer’s Disease: Social and Fiscal Outcomes,” Alzheimer’s & Dementia 5(3) 2009, 215–226.
-
-    <span>![image](PA881_2018/Image_011.png)</span>
-
-    ## October 22
-
-    Uncertainty: Option price and option value
-
-*   BGVW, Chapter 12 (Spreadsheet exercise 3)
-
-    <span>![image](PA881_2018/Image_012.png)</span>
-
-    ## October 29
-
-    Life cycle analysis
-
-*   Joule A. Bergerson and Lester B. Lave, “Should We Transmit Coal, Gas, or Electricity: Cost, Efficiency, and Environmental Implication,” Environmental Science and Technology 39(16) 2005, 5905–5910.
-
-*   [Visit:](http://www.eiolca.net/) www.eiolca.net and do the tutorial for the EIO-LCA model.
-
-    <span>![image](PA881_2018/Image_013.png)</span>
-
-    ## October 31
-
-    Midterm
-
-    <span>![image](PA881_2018/Image_014.png)</span>
-
-    ## November 5
-
-    What is different about CBA in developing countries?
-
-*   Brent, Robert J. 2009\. “15 Cost-Benefit Analysis and the Evaluation of the Effects of Corruption on Public Projects.” Handbook of Research on Cost-Benefit Analysis, 388.
-
-*   Quah, Euston. 2017\. “Using Cost-Benefit Analysis In Developed And Developing Countries: Is It The Same?” Macroeconomic Review. Monetary Authority of Singapore, Economic Policy Group.
-
-    <span>![image](PA881_2018/Image_015.png)</span>
-
-    ## November 7
-
-    Revealed preferences: experiments & natural experiments
-
-*   BGVW, Chapter 14 (Exercise 2)
-
-*   BGVW, Case 14
-
-    <span>![image](PA881_2018/Image_016.png)</span>
-
-    ## November 12
-
-    Revealed preferences: observational studies
-
-*   BGVW, Ch 15 (Spreadsheet exercise 3)
-
-*   BGVW, Case 17?
-
-*   Weimer, David L., and Michael J. Wolkoff. 2001\. “School Performance and Housing Values: Using Non- Contiguous District and Incorporation Boundaries to Identify School Effects.” National Tax Journal 54 (2): 231–53.
-
-    <span>![image](PA881_2018/Image_017.png)</span>
-
-    ## November 14
-
-    Valuing life and time
-
-    *   Belenky, Peter. 2011\. “Revised Departmental Guidance on Valuation of Travel Time in Economic Analysis.” <span class="s7">pp. 1-2, 11-14, skim the rest</span>
-
-*   León, Gianmarco, and Edward Miguel. 2017\. “Risky Transportation Choices and the Value of a Statistical Life.” American Economic Journal: Applied Economics 9 (1): 202–28.
-
-*   Fezzi, Carlo, Ian J. Bateman, and Silvia Ferrini. 2014\. “Using Revealed Preferences to Estimate the Value of Travel Time to Recreation Sites.” Journal of Environmental Economics and Management 67 (1): 58–70.
-
-*   Wolff, Hendrik. 2014\. “Value of Time: Speeding Behavior and Gasoline Prices.” Journal of Environ- mental Economics and Management 67 (1): 71–88.
-
-    <span>![image](PA881_2018/Image_018.png)</span>
-
-    ## November 19
-
-    Land conservation classroom game
-
-*   Read game set-up document
-
-    <span>![image](PA881_2018/Image_019.png)</span>
-
-    ## November 21
-
-    Project consultations
-
-    <span>![image](PA881_2018/Image_020.png)</span>
-
-    ## November 26
-
-    Valuing the environment (I): invasive species
-
-*   Lodge, David M., Paul W. Simonin, Stanley W. Burgiel, Reuben P. Keller, Jonathan M. Bossenbroek, Christopher L. Jerde, Andrew M. Kramer, et al. 2016\. “Risk Analysis and Bioeconomics of Invasive Species to Inform Policy and Management.” Annual Review of Environment and Resources 41 (1): 453–88.
-
-*   Davidson, Alisha D., Chad L. Hewitt, and Donna R. Kashian. 2015\. “Understanding Acceptable Level of Risk: Incorporating the Economic Cost of Under-Managing Invasive Species.” PLOS ONE 10 (11): e0141958.
-
-    <span>![image](PA881_2018/Image_021.png)</span>
-
-    ## November 28
-
-    Valuing the environment (II): case study Comoros
-
-*   Dale Whittington, “Improving the Performance of Contingent Valuation Studies in Developing Coun- tries,” Environmental and Resource Economics 22(1&2) 2002, 323–367.
-
-    <span>![image](PA881_2018/Image_022.png)</span>
-
-    ## December 3
-
-    Valuing the environment (III): contingent valuation
-
-*   BGVW, Chapter 13
-
-*   BGVW, Chapter 16 (Exercise 2)
-
-*   BGVW, Case 16
-
-    <span>![image](PA881_2018/Image_023.png)</span>
-
-    ## December 5
-
-    Implications of behavioral economics for CBA
-
-    *   Robinson, Lisa A., and James K. Hammitt. 2011\. “Behavioral Economics and Regulatory Analysis.” Risk Analysis 31 (9): 1408–22.
-
-*   Portney, Paul R. 1992\. “Trouble in Happyville.” Journal of Policy Analysis and Management 11 (1): 131–32.
-
-*   Salanié, François, and Nicolas Treich. 2009\. “Regulation in Happyville.” The Economic Journal 119 (537): 665–79.
-
-*   Sunstein, Cass R. 2003\. “Terrorism and Probability Neglect.” Journal of Risk and Uncertainty 26 (2-3): 121–36.
-
-<span>![image](PA881_2018/Image_024.png)</span>
-
-## December 10 & 12
-
-Presentations
 
 [Back to top](#index)
