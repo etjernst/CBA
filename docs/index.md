@@ -80,7 +80,7 @@ _Source: [NASA Earth Observatory](https://earthobservatory.nasa.gov/images/79793
 
 During the semester you will learn the basics of CBA. We will discuss the method's advantages and limitations. I hope that you will become critical consumers of CBAs, able to _(i)_ identify the weaknesses in someone else's analysis, and _(ii)_ suggest potential improvements.
 
-<details open> <summary> See more
+<details> <summary> See more
 </summary>
 
 We will work together towards achieving several goals. By the end of the semester, I hope that you will:
@@ -269,7 +269,7 @@ _Exemption policy:_ Any student may petition for an exemption to the technology 
 
 |Day|Date|Topic|Reading|Exercises|Classroom|
 | --- | --- | --- | --- | --- | ---|
-|	Wed	|	9/4/19	| ~Introduction~	| BGVW, Ch. 1 + past projects | | ~Ingraham 222~ |
+|	Wed	|	9/4/19	| ~~Introduction~~	| BGVW, Ch. 1 + past projects | | ~~Ingraham 222~~ |
 |	Mon	|	9/9/19	| Discuss team projects & intro | BGVW, Ch. 8 |  | Ingraham 222 |
 |	Wed	|	9/11/19	|Conceptual foundations|BGVW, Ch 2 | Ch2: Ex 2, 3 & 4| Education L159|
 |	Mon	|	9/16/19	|		|		|
