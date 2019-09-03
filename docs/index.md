@@ -40,10 +40,12 @@ Graduate/professional standing and PA818 & PA880, or POP HLTH/ISYE 875, or AAE 6
     * [Course requirements & grading](#course-requirements)<br>
     * [Course materials](#course-materials)<br>
     * [Schedule / overview](#schedule/overview)<br>
-[Diversity & inclusion](#diversity-and-inclusion)<br>
-[Academic integrity](#academic-integrity)<br>
-[Religious observances](#religious-observances)<br>
-[Detailed schedule](#detailed-schedule)<br>
+    * [Detailed schedule](#detailed-schedule)<br>
+* Values
+    * [Diversity & inclusion](#diversity-and-inclusion)<br>
+    * [Academic integrity](#academic-integrity)<br>
+    * [Religious observances](#religious-observances)<br>
+    * [Electronics](#electronics)
 
 ---
 
@@ -53,8 +55,8 @@ Cost-benefit analysis (CBA) is a technique for evaluating a project or investmen
 
 Policy decisions always require trade-offs and some are more difficult than others. Given scarce resources, how should policy-makers allocate funding? What are the opportunity costs of the funds? For example, if we devote more resources to reducing pollution, that money can no longer be used for improving education in public schools. CBA can be used as a decision rule to determine whether a project should be carried out, or to compare competing projects.<br>
 
-What are some examples, you ask?
-<details><summary> &nbsp
+You want an example?
+<details><summary> See below
 </summary>
 
 Do the benefits of rural electrification in sub-Saharan Africa outweigh the costs?
@@ -76,7 +78,7 @@ _Source: [NASA Earth Observatory](https://earthobservatory.nasa.gov/images/79793
 
 During the semester you will learn the basics of CBA. We will discuss the method's advantages and limitations. I hope that you will become critical consumers of CBAs, able to _(i)_ identify the weaknesses in someone else's analysis, and _(ii)_ suggest potential improvements.
 
-<details> <summary> See more
+<details open> <summary> See more
 </summary>
 
 We will work together towards achieving several goals. By the end of the semester, I hope that you will:
@@ -123,7 +125,7 @@ Please name files according to this convention:
 Several assessment components are designed to help you reach the goals listed above:
 
 ### 1. Class participation (10% of course grade)
-See more <details> <summary>
+<details> <summary> See more
 </summary>
 Class sessions will mix lectures, discussion, case studies and problem solving to explore both the practical and conceptual aspects of CBA. I expect you to actively participate in class and to diligently complete assigned exercises and readings. I have several reasons for grading participation:
 
@@ -138,7 +140,7 @@ _Note on readings:_ Some of the readings might be challenging, as they occasiona
 </details>
 
 ### 2. Stata exercise (10% of your grade)
-See more <details> <summary>
+<details> <summary> See more
 </summary>
 We will have an in-class Stata class, followed by a homework that builds on the in-class work. The exercise is designed to be useful for completing your project. I hope that the skills that you pick up will also be useful in other courses and in your professional lives.
 
@@ -148,7 +150,7 @@ We will have an in-class Stata class, followed by a homework that builds on the 
 An in-class midterm exam on October 30 will give you a chance to show me what you have learned so far.
 
 ### 4. Peer feedback for another team's CBA draft (10% of course grade)
-See more <details> <summary>
+<details> <summary> See more
 </summary>
 All teams will hand in their first drafts on November 25. I will assign each of you a draft report to read. You will prepare two specific questions for the team that you are assigned to. You will also write a brief memo with constructive feedback.
 
@@ -156,7 +158,7 @@ All teams will hand in their first drafts on November 25. I will assign each of 
 
 
 ### 5. Cost benefit project (40% of course grade)
-See more <details> <summary>
+<details> <summary> See more
 </summary>
 
 Although you can learn the basics of CBA theory in the classroom, actually carrying one out is part theory, part art. This art is best mastered by practicing it. Toward this end, you will work together in teams to conduct a CBA of a real intervention/program/policy for a real client.<br>
@@ -167,24 +169,25 @@ or unable to give the project a high priority</b> </p>
 
 To build up towards a successful project, we have several milestones along the way. These assignments are there to keep you on track with your project, and to give me a chance to provide feedback:
 
-1.  Project report 1 (summary + plan) is due on **September 18**.
-See more <details> <summary>
+1.  Project report 1 (summary + plan) is due on **September 18**.<br>
+<details> <summary> See more
 </summary>
 Prepare a report that describes the issue being addressed in the project and sketches a plan for completion.
 
 </details>
 
 
-2.  Project report 2 (data report) will be due on **October 2**.
-See more <details> <summary>
+2.  Project report 2 (data report) will be due on **October 2**.<br>
+<details> <summary> See more
 </summary>
 Prepare a complete report on the data that you have from your client, as well as other data sources. Show clearly that you have begun working with and understand the data. I encourage you to present summary statistics and basic figures describing your data.  
 
 </details>
 
 
-3.  Project report 3 (categories & measurement) will be due on **October 16**.
-See more <details> <summary>
+3.  Project report 3 (categories & measurement) will be due on **October 16**.<br>
+
+<details> <summary> See more
 </summary>
 Prepare a list of the relevant categories of costs and benefits. Indicate clearly how you plan to measure each. Map these to the data that you have and note where you will get additional data if needed.
 _Read BGVW, Chapter 17, to get an idea of available shadow prices from secondary sources._
@@ -243,21 +246,72 @@ If a religious observance will require that you miss class time, please notify m
 
 # Schedule/overview
 
-<span>![image](PA881_2018/Image_003.png)</span>
 
-# Detailed schedule
+|Day|Date|Topic|Reading|Exercises|Classroom|
+| --- | --- | --- | --- | --- | ---|
+|	Wed	|	9/4/19	| ~Introduction~	| BGVW, Ch. 1 + past projects | | ~Ingraham 222~ |
+|	Mon	|	9/9/19	| Discuss team projects & intro | BGVW, Ch. 8 |  | Ingraham 222 |
+|	Wed	|	9/11/19	|Conceptual foundations|BGVW, Ch 2 | Ch2: Ex 2, 3 & 4| Education L159|
+|	Mon	|	9/16/19	|		|		|
+|	Wed	|	9/18/19	|		|		|
+|	Mon	|	9/23/19	|		|		|
+|	Wed	|	9/25/19	|		|		|
+|	Mon	|	9/30/19	|		|		|
+|	Wed	|	10/2/19	|		|		|
+|	Mon	|	10/7/19	|		|		|
+|	Wed	|	10/9/19	|		|		|
+|	Mon	|	10/14/19	|		|		|
+|	Wed	|	10/16/19	|		|		|
+|	Mon	|	10/21/19	|		|		|
+|	Wed	|	10/23/19	|		|		|
+|	Mon	|	10/28/19	|		|		|
+|	Wed	|	10/30/19	|		|		|
+|	Mon	|	11/4/19	|		|		|
+|	Wed	|	11/6/19	|		|		|
+|	Mon	|	11/11/19	|		|		|
+|	Wed	|	11/13/19	|		|		|
+|	Mon	|	11/18/19	|		|		|
+|	Wed	|	11/20/19	|		|		|
+|	Mon	|	11/25/19	|		|		|
+|	Wed	|	11/27/19	| Team consultations | N/A | No in-class meeting |
+|	Mon	|	12/2/19	|		|		|
+|	Wed	|	12/4/19	|		|		|
+|	Mon	|	12/9/19	|		|		|
+|	Wed	|	12/11/19	|		|		|
 
-<span>![image](PA881_2018/Image_004.png)</span>
 
-## September 4
+## Detailed schedule
 
-Intro: What is Cost-Benefit Analysis? How is it used?
+#### September 4, 2019
+#### September 9, 2019
+#### September 11, 2019
+#### September 16, 2019
+#### September 18, 2019
+#### September 23, 2019
+#### September 25, 2019
+#### September 30, 2019
+#### October 2, 2019
+#### October 7, 2019
+#### October 9, 2019
+#### October 14, 2019
+#### October 16, 2019
+#### October 21, 2019
+#### October 23, 2019
+#### October 28, 2019
+#### October 30, 2019
+#### November 4, 2019
+#### November 6, 2019
+#### November 11, 2019
+#### November 13, 2019
+#### November 18, 2019
+#### November 20, 2019
+#### November 25, 2019
+#### November 27, 2019
+#### December 2, 2019
+#### December 4, 2019
+#### December 9, 2019
+#### December 11, 2019
 
-*   BGVW, Chapter 1
-
-*   [Weiner, Zachary. “Ethical Fourier Transform.” Saturday Morning Breakfast Cereal.](http://www.smbc-comics.com/index.php?id=3831) [http://www.smbc- comics.com/index.php?id=3831](http://www.smbc-comics.com/index.php?id=3831)
-
-    <span>![image](PA881_2018/Image_005.png)</span>
 
 
 
