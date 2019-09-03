@@ -53,7 +53,8 @@ Cost-benefit analysis (CBA) is a technique for evaluating a project or investmen
 
 Policy decisions always require trade-offs and some are more difficult than others. Given scarce resources, how should policy-makers allocate funding? What are the opportunity costs of the funds? For example, if we devote more resources to reducing pollution, that money can no longer be used for improving education in public schools. CBA can be used as a decision rule to determine whether a project should be carried out, or to compare competing projects.<br>
 
-What are some examples, you ask? <details><summary>
+What are some examples, you ask?
+<details><summary> &nbsp
 </summary>
 
 Do the benefits of rural electrification in sub-Saharan Africa outweigh the costs?
@@ -75,7 +76,7 @@ _Source: [NASA Earth Observatory](https://earthobservatory.nasa.gov/images/79793
 
 During the semester you will learn the basics of CBA. We will discuss the method's advantages and limitations. I hope that you will become critical consumers of CBAs, able to _(i)_ identify the weaknesses in someone else's analysis, and _(ii)_ suggest potential improvements.
 
-See more <details> <summary>
+<details> <summary> See more
 </summary>
 
 We will work together towards achieving several goals. By the end of the semester, I hope that you will:
@@ -155,7 +156,7 @@ All teams will hand in their first drafts on November 25. I will assign each of 
 
 
 ### 5. Cost benefit project (40% of course grade)
-<details open><summary>
+See more <details> <summary>
 </summary>
 
 Although you can learn the basics of CBA theory in the classroom, actually carrying one out is part theory, part art. This art is best mastered by practicing it. Toward this end, you will work together in teams to conduct a CBA of a real intervention/program/policy for a real client.<br>
