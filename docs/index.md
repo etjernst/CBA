@@ -240,6 +240,17 @@ The UW Writing Center has a [handout](http://writing.wisc.edu/Handbook/Acknowled
 
 If a religious observance will require that you miss class time, please notify me within the first two weeks of class of the specific days or dates on which you request relief. If the date you will miss is an exam, we will schedule a make-up exam time either before or after the regularly scheduled exam.
 
+## Electronics
+
+_Technology use:_ Learning requires attention and focus.
+When students use technologies (phones, laptops, tablets) during class, they often disrupt the instructor and their fellow students.
+The best available evidence shows that personal technological aids lead to poor performance in courses and negative externalities for other students ability to learn.
+
+This Brookings report, ["For better learning in college lectures, lay down the laptop and pick up a pen"](https://www.brookings.edu/research/for-better-learning-in-college-lectures-lay-down-the-laptop-and-pick-up-a-pen/) details the compelling evidence and links to detailed research papers. Therefore, our course will ban personal technology. This includes cell phones, laptop computers, and tablets.
+
+_Exemption policy:_ Any student may petition for an exemption to the technology ban by emailing the instructor by the end of the second week of the semester (September 14, 2018). To prevent negative externalities due to technology use, I expect students with exemptions to use the technology as inconspicuously as possible if granted an exemption.
+
+
 [Back to top](#index)
 
 ---
