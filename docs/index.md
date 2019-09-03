@@ -53,8 +53,7 @@ Cost-benefit analysis (CBA) is a technique for evaluating a project or investmen
 
 Policy decisions always require trade-offs and some are more difficult than others. Given scarce resources, how should policy-makers allocate funding? What are the opportunity costs of the funds? For example, if we devote more resources to reducing pollution, that money can no longer be used for improving education in public schools. CBA can be used as a decision rule to determine whether a project should be carried out, or to compare competing projects.<br>
 
-<details><summary><span style="color: black;">What are some examples, you ask?
-</span>
+What are some examples, you ask? <details><summary>
 </summary>
 
 Do the benefits of rural electrification in sub-Saharan Africa outweigh the costs?
@@ -76,7 +75,7 @@ _Source: [NASA Earth Observatory](https://earthobservatory.nasa.gov/images/79793
 
 During the semester you will learn the basics of CBA. We will discuss the method's advantages and limitations. I hope that you will become critical consumers of CBAs, able to _(i)_ identify the weaknesses in someone else's analysis, and _(ii)_ suggest potential improvements.
 
-<details> <summary> See more
+See more <details> <summary>
 </summary>
 
 We will work together towards achieving several goals. By the end of the semester, I hope that you will:
@@ -123,7 +122,7 @@ Please name files according to this convention:
 Several assessment components are designed to help you reach the goals listed above:
 
 ### 1. Class participation (10% of course grade)
-<details><summary>See more
+See more <details> <summary>
 </summary>
 Class sessions will mix lectures, discussion, case studies and problem solving to explore both the practical and conceptual aspects of CBA. I expect you to actively participate in class and to diligently complete assigned exercises and readings. I have several reasons for grading participation:
 
@@ -138,7 +137,7 @@ _Note on readings:_ Some of the readings might be challenging, as they occasiona
 </details>
 
 ### 2. Stata exercise (10% of your grade)
-<details> <summary>See more
+See more <details> <summary>
 </summary>
 We will have an in-class Stata class, followed by a homework that builds on the in-class work. The exercise is designed to be useful for completing your project. I hope that the skills that you pick up will also be useful in other courses and in your professional lives.
 
@@ -148,7 +147,7 @@ We will have an in-class Stata class, followed by a homework that builds on the 
 An in-class midterm exam on October 30 will give you a chance to show me what you have learned so far.
 
 ### 4. Peer feedback for another team's CBA draft (10% of course grade)
-<details> <summary>See more
+See more <details> <summary>
 </summary>
 All teams will hand in their first drafts on November 25. I will assign each of you a draft report to read. You will prepare two specific questions for the team that you are assigned to. You will also write a brief memo with constructive feedback.
 
@@ -156,7 +155,8 @@ All teams will hand in their first drafts on November 25. I will assign each of 
 
 
 ### 5. Cost benefit project (40% of course grade)
-<details open>
+<details open><summary>
+</summary>
 
 Although you can learn the basics of CBA theory in the classroom, actually carrying one out is part theory, part art. This art is best mastered by practicing it. Toward this end, you will work together in teams to conduct a CBA of a real intervention/program/policy for a real client.<br>
 
@@ -167,7 +167,7 @@ or unable to give the project a high priority</b> </p>
 To build up towards a successful project, we have several milestones along the way. These assignments are there to keep you on track with your project, and to give me a chance to provide feedback:
 
 1.  Project report 1 (summary + plan) is due on **September 18**.
-<details><summary>See more
+See more <details> <summary>
 </summary>
 Prepare a report that describes the issue being addressed in the project and sketches a plan for completion.
 
@@ -175,7 +175,7 @@ Prepare a report that describes the issue being addressed in the project and ske
 
 
 2.  Project report 2 (data report) will be due on **October 2**.
-<details><summary>See more
+See more <details> <summary>
 </summary>
 Prepare a complete report on the data that you have from your client, as well as other data sources. Show clearly that you have begun working with and understand the data. I encourage you to present summary statistics and basic figures describing your data.  
 
@@ -183,7 +183,7 @@ Prepare a complete report on the data that you have from your client, as well as
 
 
 3.  Project report 3 (categories & measurement) will be due on **October 16**.
-<details> <summary>See more
+See more <details> <summary>
 </summary>
 Prepare a list of the relevant categories of costs and benefits. Indicate clearly how you plan to measure each. Map these to the data that you have and note where you will get additional data if needed.
 _Read BGVW, Chapter 17, to get an idea of available shadow prices from secondary sources._
