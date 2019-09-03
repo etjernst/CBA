@@ -13,7 +13,7 @@
 <p align="center" style="color:grey;"><i>
 "I would add one word for any student beginning economic study<br>
 who may be discouraged by the severity of the effort which the study,<br>
-as he will find it exemplified here, seems to require of him <span style="color: red;">[/her*]</span> .<br>
+as he will find it exemplified here, seems to require of him <span style="color: red;">[/her*]</span>.<br>
 The complicated analyses which economists endeavour to carry through<br>
 are not mere gymnastic.<br>
 <br>
@@ -52,8 +52,10 @@ Cost-benefit analysis (CBA) is a technique for evaluating a project or investmen
 
 Policy decisions always require trade-offs and some are more difficult than others. Given scarce resources, how should policy-makers allocate funding? What are the opportunity costs of the funds? For example, if we devote more resources to reducing pollution, that money can no longer be used for improving education in public schools. CBA can be used as a decision rule to determine whether a project should be carried out, or to compare competing projects.<br>
 
-<details> <summary> What are some examples, you ask?
-	</summary>
+<details> 
+<summary> <span style="color: red;">What are some examples, you ask?
+</span>
+</summary>
 
 Do the benefits of rural electrification in sub-Saharan Africa outweigh the costs?
 
