@@ -36,10 +36,12 @@ Graduate/professional standing and PA818 & PA880, or POP HLTH/ISYE 875, or AAE 6
 * Introduction
     * [What is CBA?](#what-is-cost-benefit-analysis)<br>
     * [Course objectives](#course-objectives)<br>
-* Details<br>
+* Details
     * [Course requirements & grading](#course-requirements)<br>
     * [Course materials](#course-materials)<br>
-    * [Schedule / overview](#schedule/overview)<br>
+        * [File naming](#file-naming-convention)
+        * [Assessment](#assessment)
+    * [Schedule / overview](#schedule)<br>
     * [Detailed schedule](#detailed-schedule)<br>
 * Values
     * [Diversity & inclusion](#diversity-and-inclusion)<br>
@@ -71,8 +73,8 @@ _Source: [NASA Earth Observatory](https://earthobservatory.nasa.gov/images/79793
 
 </details>
 
-[Back to top](#index)
 
+[Back to top](#index)
 
 ## Course objectives
 
@@ -110,9 +112,10 @@ We will work together towards achieving several goals. By the end of the semeste
 
 ## Course requirements & grades
 
-This course will be face-to-face. We will interact both in class and outside of class through team consultations. We will meet for two 75-minute class periods each week over the fall semester. The course carries the expectation that you will work on course learning activities (reading, writing, problem sets, studying, team work, etc.) for about 3 hours out of the classroom for every class period. Below I describe in detail the meeting times and the expectations for student work.
+This course will be face-to-face. We will interact both in class and outside of class through team consultations. We will meet for two 75-minute class periods each week over the fall semester. The course carries the expectation that you will work on course learning activities (reading, writing, problem sets, studying, team work, etc.) for about 3 hours out of the classroom for every class period. Below I describe in detail the meeting times and the expectations for student work.<br>
+[Back to top](#index)
 
-#### File naming convention
+### File naming convention
 ```
 All course materials and submissions will be due electronically in PDF format on Canvas.<br>
 Please name files according to this convention:
@@ -121,6 +124,8 @@ Please name files according to this convention:
 	- Assignment_ProjectName (for group projects)
 
 ```
+
+### Assessment
 
 Several assessment components are designed to help you reach the goals listed above:
 
@@ -224,21 +229,27 @@ We will rely extensively on the assigned (required) textbook:
 *   Anthony E. Boardman, David H. Greenberg, Aidan R. Vining, and David L. Weimer, Cost- Benefit Analysis: Concepts and Practice, 5th ed. (Upper Saddle River, New Jersey: Prentice Hall, 2018).
 
 I will additionally make other readings and class materials available on Canvas.
+[Back to top](#index)
+
+---
 
 ## Diversity and inclusion
 
-I wholeheartedly endorse the UW-Madison statement on diversity. Diversity in all its flavors constitutes a source of strength, creativity, and innovation for the university and for the country. I value the contributions of each person and respect the profound ways their identity, culture, background, experience, status, abilities, and opinion enrich our community.
+I wholeheartedly endorse the UW-Madison statement on diversity. Diversity in all its flavors constitutes a source of strength, creativity, and innovation for the university and for the country. I value the contributions of each person and respect the profound ways their identity, culture, background, experience, status, abilities, and opinion enrich our community.<br>
+[Back to top](#index)
 
 ## Academic integrity
 
 By enrolling in this course, each student assumes the responsibilities of an active participant in UW-Madison’s community of scholars in which everyone’s academic work and behavior are held to the highest academic integrity standards. Academic misconduct compromises the integrity of the university. Cheating, fabrication, plagiarism, unauthorized collaboration, and helping others commit these acts are examples of academic misconduct, which can result in disciplinary action. This includes but is not limited to failure on the assignment/course, disciplinary probation, or suspension. I will forward substantial or repeated cases of misconduct to the Dean of Students Office for additional review. For more information, or if you have any doubts about how the above terms are defined, please refer to [this](http://www.students.wisc.edu/doso/academic-integrity/).
 
-The UW Writing Center has a [handout](http://writing.wisc.edu/Handbook/Acknowledging_Sources.pdf) on acknowledging, paraphrasing and quoting sources. Many borderline plagiarism cases could have been avoided if the students had a clearer sense of the rules of how to cite sources.
-
+The UW Writing Center has a [handout](http://writing.wisc.edu/Handbook/Acknowledging_Sources.pdf) on acknowledging, paraphrasing and quoting sources. Many borderline plagiarism cases could have been avoided if the students had a clearer sense of the rules of how to cite sources.<br>
+[Back to top](#index)
 
 ## Religious observances
 
-If a religious observance will require that you miss class time, please notify me within the first two weeks of class of the specific days or dates on which you request relief. If the date you will miss is an exam, we will schedule a make-up exam time either before or after the regularly scheduled exam.
+If a religious observance will require that you miss class time, please notify me within the first two weeks of class of the specific days or dates on which you request relief. If the date you will miss is an exam, we will schedule a make-up exam time either before or after the regularly scheduled exam.<br>
+[Back to top](#index)
+
 
 ## Electronics
 
@@ -248,14 +259,12 @@ The best available evidence shows that personal technological aids lead to poor 
 
 This Brookings report, ["For better learning in college lectures, lay down the laptop and pick up a pen"](https://www.brookings.edu/research/for-better-learning-in-college-lectures-lay-down-the-laptop-and-pick-up-a-pen/) details the compelling evidence and links to detailed research papers. Therefore, our course will ban personal technology. This includes cell phones, laptop computers, and tablets.
 
-_Exemption policy:_ Any student may petition for an exemption to the technology ban by emailing the instructor by the end of the second week of the semester (September 14, 2018). To prevent negative externalities due to technology use, I expect students with exemptions to use the technology as inconspicuously as possible if granted an exemption.
-
-
+_Exemption policy:_ Any student may petition for an exemption to the technology ban by emailing the instructor by the end of the second week of the semester (September 14, 2018). To prevent negative externalities due to technology use, I expect students with exemptions to use the technology as inconspicuously as possible if granted an exemption.<br>
 [Back to top](#index)
 
 ---
 
-# Schedule/overview
+## Schedule
 
 
 |Day|Date|Topic|Reading|Exercises|Classroom|
@@ -290,6 +299,9 @@ _Exemption policy:_ Any student may petition for an exemption to the technology 
 |	Mon	|	12/9/19	|		|		|
 |	Wed	|	12/11/19	|		|		|
 
+[Back to top](#index)
+
+-----
 
 ## Detailed schedule
 
