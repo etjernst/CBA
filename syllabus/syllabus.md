@@ -68,7 +68,6 @@ You will also make progress towards key La Follette School learning goals. As pa
 
 [Back to top](#Syllabus)
 
-
 ### Official course description:
 <span class="s2">Presents the welfare economics underpinnings for evaluating the social benefits and costs of government activities. Issues such as uncertainty, the social discount rate, and welfare weights will be discussed; case studies from the environmental, social policy, and agricultural areas will be studied.</span>
 

@@ -5,25 +5,45 @@
  |    Class details                  | Instructor details       |         
  |     ---                           |            --           |      
  | Meeting time: MW 8-9:15        | Instructor: Dr. Tjernström   |
- | Meeting location: Ingraham 222 | Office: Taylor Hall 520      |
+ | Meeting location: Ingraham 222 / Education L159 | Office: Taylor Hall 520      |
  | Office hours: Mondays 9:30-11:30 |  Email: tjernstroem@wisc.edu |
  | [Course website](https://etjernst.github.io/CBA/) | [Instructor website](https://www.lafollette.wisc.edu/sites/tjernstrom/) |
 
 
-<p align="center" style="color:grey;">
-"I would add one word for any student beginning economic study who may be discouraged by the severity of the effort which the study, as he will find it exemplified here, seems to require of him. The complicated analyses which economists endeavour to carry through are not mere gymnastic. They are instruments for the bettering of human life."</p>
+<p align="center" style="color:grey;"><i>
+"I would add one word for any student beginning economic study<br>
+who may be discouraged by the severity of the effort which the study,<br>
+as he will find it exemplified here, seems to require of him <span style="color: red;">[/her*]</span> .<br>
+The complicated analyses which economists endeavour to carry through<br>
+are not mere gymnastic.<br>
+<br>
+They are instruments for the bettering of human life."</i></p>
 <p align="right" style="color:grey;">
-	- Pigou, Arthur C. The economics of welfare, 1920.<br></p>
+	- Pigou, Arthur C. The economics of welfare, 1920.<br>
+    <span style="color:red;">[*]</span> = Emilia's addition</p>
 
 ### Official course description
 Presents the welfare economics underpinnings for evaluating the social benefits and costs of government activities. Issues such as uncertainty, the social discount rate, and welfare weights will be discussed; case studies from the environmental, social policy, and agricultural areas will be studied.
 ### Official pre-requisites:
 Graduate/professional standing and PA818 & PA880, or POP HLTH/ISYE 875, or AAE 635.
 
-<p align="right" style="color:lightgrey;"> This version: September 1, 2019</p>
+<p align="right" style="color:lightgrey;"> This version: September 3, 2019</p>
 
 ---
 ## Index
+
+* Introduction
+    * [What is CBA?](#what-is-cost-benefit-analysis)<br>
+    * [Course objectives](#course-objectives)<br>
+* Details<br>
+    * [Course requirements & grading](#course-requirements)<br>
+    * [Course materials](#course-materials)<br>
+    * [Schedule / overview](#schedule-overview)<br>
+[Diversity & inclusion](#diversity-and-inclusion)<br>
+[Academic integrity](#academic-integrity)<br>
+[Religious observances](#religious-observances)<br>
+[Detailed schedule](#detailed-schedule)<br>
+
 ---
 
 ## What is cost-benefit analysis?
@@ -32,8 +52,7 @@ Cost-benefit analysis (CBA) is a technique for evaluating a project or investmen
 
 Policy decisions always require trade-offs and some are more difficult than others. Given scarce resources, how should policy-makers allocate funding? What are the opportunity costs of the funds? For example, if we devote more resources to reducing pollution, that money can no longer be used for improving education in public schools. CBA can be used as a decision rule to determine whether a project should be carried out, or to compare competing projects.<br>
 
-<details> <summary>
-		What are some examples, you ask?
+<details> <summary> What are some examples, you ask?
 	</summary>
 
 Do the benefits of rural electrification in sub-Saharan Africa outweigh the costs?
@@ -127,7 +146,8 @@ All teams will hand in their first drafts on November 25. I will assign each of 
 
 
 ### 5. Cost benefit project (40% of course grade)
-<details> <summary>Description</summary>
+<details open> <summary> Description
+</summary>
 
 Although you can learn the basics of CBA theory in the classroom, actually carrying one out is part theory, part art. This art is best mastered by practicing it. Toward this end, you will work together in teams to conduct a CBA of a real intervention/program/policy for a real client.<br>
 
@@ -184,7 +204,11 @@ We will rely extensively on the assigned (required) textbook:
 
 *   Anthony E. Boardman, David H. Greenberg, Aidan R. Vining, and David L. Weimer, Cost- Benefit Analysis: Concepts and Practice, 5th ed. (Upper Saddle River, New Jersey: Prentice Hall, 2018).
 
-I will additionally make other readings and class materials available on Canvas. Unless specifically noted, all readings are required.
+I will additionally make other readings and class materials available on Canvas.
+
+## Diversity and inclusion
+
+I wholeheartedly endorse the UW-Madison statement on diversity. Diversity in all its flavors constitutes a source of strength, creativity, and innovation for the university and for the country. I value the contributions of each person and respect the profound ways their identity, culture, background, experience, status, abilities, and opinion enrich our community.
 
 ## Academic integrity
 
@@ -192,9 +216,6 @@ By enrolling in this course, each student assumes the responsibilities of an act
 
 The UW Writing Center has a [handout](http://writing.wisc.edu/Handbook/Acknowledging_Sources.pdf) on acknowledging, paraphrasing and quoting sources. Many borderline plagiarism cases could have been avoided if the students had a clearer sense of the rules of how to cite sources.
 
-## Diversity and inclusion
-
-I wholeheartedly endorse the UW-Madison statement on diversity. Diversity in all its flavors constitutes a source of strength, creativity, and innovation for the university and for the country. I value the contributions of each person and respect the profound ways their identity, culture, background, experience, status, abilities, and opinion enrich our community.
 
 ## Religious observances
 
