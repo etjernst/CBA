@@ -37,10 +37,10 @@ Graduate/professional standing and PA818 & PA880, or POP HLTH/ISYE 875, or AAE 6
     * [What is CBA?](#what-is-cost-benefit-analysis)
     * [Course objectives](#course-objectives)
 * [Details](#details)
-    * [Course requirements & grading](#course-requirements)
-    * [Course materials](#course-materials)
+    * [Course requirements & grades](#course-requirements-and-grades)
         * [File naming](#file-naming-convention)
         * [Assessment](#assessment)
+    * [Course materials](#course-materials)
     * [Schedule / overview](#schedule)
     * [Detailed schedule](#detailed-schedule)
 * [Values](#values)
@@ -114,7 +114,7 @@ We will work together towards achieving several goals. By the end of the semeste
 
 # Details
 
-## Course requirements & grades
+## Course requirements and grades
 
 This course will be face-to-face. We will interact both in class and outside of class through team consultations. We will meet for two 75-minute class periods each week over the fall semester. The course carries the expectation that you will work on course learning activities (reading, writing, problem sets, studying, team work, etc.) for about 3 hours out of the classroom for every class period. Below I describe in detail the meeting times and the expectations for student work.<br>
 [Back to top](#welcome-to-pa-881)
@@ -133,7 +133,7 @@ Please name files according to this convention:
 
 Several assessment components are designed to help you reach the goals listed above:
 
-### 1. Class participation (10% of course grade)
+#### 1. Class participation (10% of course grade)
 <details> <summary> See more
 </summary>
 Class sessions will mix lectures, discussion, case studies and problem solving to explore both the practical and conceptual aspects of CBA. I expect you to actively participate in class and to diligently complete assigned exercises and readings. I have several reasons for grading participation:
@@ -148,17 +148,17 @@ _Note on readings:_ Some of the readings might be challenging, as they occasiona
 
 </details>
 
-### 2. Stata exercise (10% of your grade)
+#### 2. Stata exercise (10% of your grade)
 <details> <summary> See more
 </summary>
 We will have an in-class Stata class, followed by a homework that builds on the in-class work. The exercise is designed to be useful for completing your project. I hope that the skills that you pick up will also be useful in other courses and in your professional lives.
 
 </details>
 
-### 3. Midterm exam (30% of course grade)
+#### 3. Midterm exam (30% of course grade)
 An in-class midterm exam on October 30 will give you a chance to show me what you have learned so far.
 
-### 4. Peer feedback for another team's CBA draft (10% of course grade)
+#### 4. Peer feedback for another team's CBA draft (10% of course grade)
 <details> <summary> See more
 </summary>
 All teams will hand in their first drafts on November 25. I will assign each of you a draft report to read. You will prepare two specific questions for the team that you are assigned to. You will also write a brief memo with constructive feedback.
@@ -167,7 +167,7 @@ All teams will hand in their first drafts on November 25. I will assign each of 
 
 [Back to top](#welcome-to-pa-881)
 
-### 5. Cost benefit project (40% of course grade)
+#### 5. Cost benefit project (40% of course grade)
 <details> <summary> See more
 </summary>
 
@@ -193,7 +193,6 @@ Prepare a report that describes the issue being addressed in the project and ske
 Prepare a complete report on the data that you have from your client, as well as other data sources. Show clearly that you have begun working with and understand the data. I encourage you to present summary statistics and basic figures describing your data.  
 
 </details>
-
 
 * Project report 3 (categories & measurement) will be due on **October 16**.<br>
 
@@ -222,7 +221,6 @@ _Read BGVW, Chapter 17, to get an idea of available shadow prices from secondary
 > **I reserve the right to lower the grade of anyone who does not contribute fully to their team. You should plan to be fully engaged with the project. I additionally reserve the right to give a failing grade in the course for anyone who acts unprofessionally.**
 
 </details>
-
 
 [Back to top](#welcome-to-pa-881)
 
