@@ -33,23 +33,25 @@ Graduate/professional standing and PA818 & PA880, or POP HLTH/ISYE 875, or AAE 6
 ---
 ## Index
 
-* Introduction
-    * [What is CBA?](#what-is-cost-benefit-analysis)<br>
-    * [Course objectives](#course-objectives)<br>
-* Details
-    * [Course requirements & grading](#course-requirements)<br>
-    * [Course materials](#course-materials)<br>
+* [Introduction](#introduction)
+    * [What is CBA?](#what-is-cost-benefit-analysis)
+    * [Course objectives](#course-objectives)
+* [Details](#details)
+    * [Course requirements & grading](#course-requirements)
+    * [Course materials](#course-materials)
         * [File naming](#file-naming-convention)
         * [Assessment](#assessment)
-    * [Schedule / overview](#schedule)<br>
-    * [Detailed schedule](#detailed-schedule)<br>
-* Values
-    * [Diversity & inclusion](#diversity-and-inclusion)<br>
-    * [Academic integrity](#academic-integrity)<br>
-    * [Religious observances](#religious-observances)<br>
+    * [Schedule / overview](#schedule)
+    * [Detailed schedule](#detailed-schedule)
+* [Values](#values)
+    * [Diversity & inclusion](#diversity-and-inclusion)
+    * [Academic integrity](#academic-integrity)
+    * [Religious observances](#religious-observances)
     * [Electronics](#electronics)
 
 ---
+
+# Introduction
 
 ## What is cost-benefit analysis?
 
@@ -109,6 +111,8 @@ We will work together towards achieving several goals. By the end of the semeste
 </details>
 
 [Back to top](#index)
+
+# Details
 
 ## Course requirements & grades
 
@@ -232,6 +236,8 @@ I will additionally make other readings and class materials available on Canvas.
 [Back to top](#index)
 
 ---
+
+# Values
 
 ## Diversity and inclusion
 
