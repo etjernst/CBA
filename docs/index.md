@@ -311,168 +311,167 @@ _Exemption policy:_ Any student may petition for an exemption to the technology 
 ## Detailed schedule
 
 #### September 4, 2019
-Topic: <br>
-	Introduction to CBA
-Readings:<br>
-	* BGVW, Ch. 1 + past projects
-Assignments:<br>
-	1. Read through the syllabus -- I will not bring printed versions to class!
-	2. Read the two attached past CBA projects carefully. Be ready to discuss them on Monday.
+**Topic:** Introduction to CBA<br>
+**Readings:**
+  * BGVW, Ch. 1 + past projects<br>
+
+**Assignments:**<br>
+  1. Read through the syllabus -- I will not bring printed versions to class!
+  2. Read two past CBA projects carefully. Be ready to discuss them on Monday.
+    - [Senegal Operation Clean Neighborhood](https://canvas.wisc.edu/files/9278672/download?download_frd=1)
+    - [MTV Shuga](https://canvas.wisc.edu/files/9278673/download?download_frd=1)
 
 #### September 9, 2019
-Topic:<br>
-	Introduction to CBA, discussion of past projects
-Readings:<br>
-	* BGVW, Chapter 8
-	* BGVW, Chapter 17 [skim]
-Assignments:<br>
-	* Please come to class with at least one question or comment about each of the two projects
+**Topic:** Introduction to CBA, discussion of past projects<br>
+**Readings:**<br>
+  * BGVW, Chapter 8
+  * BGVW, Chapter 17 [skim]
+
+**Assignments:**<br>
+  * Please come to class with at least one question or comment about each of the two projects
 	and with any questions you have about the syllabus, broadly.<br>
 
 #### September 11, 2019
-Topic: <br>	
-Readings:<br>
-Assignments:<br>
+**Topic:** <br>
+**Readings:**<br>
+**Assignments:**<br>
 
 #### September 16, 2019
-Topic: <br>	
-Readings:<br>
-Assignments:<br>
+**Topic:** <br>
+**Readings:**<br>
+**Assignments:**<br>
 
 #### September 18, 2019
-Topic: <br>	
-Readings:<br>
-Assignments:<br>
+**Topic:** <br>
+**Readings:**<br>
+**Assignments:**<br>
 
 #### September 23, 2019
-Topic: <br>	
-Readings:<br>
-Assignments:<br>
+**Topic:** <br>
+**Readings:**<br>
+**Assignments:**<br>
 
 #### September 25, 2019
-Topic: <br>	
-Readings:<br>
-Assignments:<br>
+**Topic:** <br>
+**Readings:**<br>
+**Assignments:**<br>
 
 #### September 30, 2019
-Topic: <br>	
-Readings:<br>
-Assignments:<br>
+**Topic:** <br>
+**Readings:**<br>
+**Assignments:**<br>
 
 #### October 2, 2019
-Topic: <br>	
-Readings:<br>
-Assignments:<br>
+**Topic:** <br>
+**Readings:**<br>
+**Assignments:**<br>
 
 #### October 7, 2019
-Topic: <br>	
-Readings:<br>
-Assignments:<br>
+**Topic:** <br>
+**Readings:**<br>
+**Assignments:**<br>
 
 #### October 9, 2019
-Topic: <br>	
-Readings:<br>
-Assignments:<br>
+**Topic:** <br>
+**Readings:**<br>
+**Assignments:**<br>
 
 #### October 14, 2019
-Topic: <br>	
-Readings:<br>
-Assignments:<br>
+**Topic:** <br>
+**Readings:**<br>
+**Assignments:**<br>
 
 #### October 16, 2019
-Topic: <br>	
-Readings:<br>
-Assignments:<br>
+**Topic:** <br>
+**Readings:**<br>
+**Assignments:**<br>
 
 #### October 21, 2019
-Topic: <br>	
-Readings:<br>
-Assignments:<br>
+**Topic:** <br>
+**Readings:**<br>
+**Assignments:**<br>
 
 #### October 23, 2019
-Topic: <br>	
-Readings:<br>
-Assignments:<br>
+**Topic:** <br>
+**Readings:**<br>
+**Assignments:**<br>
 
 #### October 28, 2019
-Topic: <br>	
-Readings:<br>
-Assignments:<br>
+**Topic:** <br>
+**Readings:**<br>
+**Assignments:**<br>
 
 #### October 30, 2019
-Topic: <br>
-	Midterm!<br>
-Readings:<br>
-	Everything!
-Assignments:<br>
-	Study, study, study!
+**Topic:** Midterm!<br>
+**Readings:**
+  * Everything!<br>
+
+**Assignments:**<br>
+  * Study, study, study!
 
 #### November 4, 2019
-Topic: <br>	
-Readings:<br>
-Assignments:<br>
+**Topic:** <br>
+**Readings:**<br>
+**Assignments:**<br>
 
 #### November 6, 2019
-Topic: <br>	
-Readings:<br>
-Assignments:<br>
+**Topic:** <br>
+**Readings:**<br>
+**Assignments:**<br>
 
 #### November 11, 2019
-Topic: <br>	
-Readings:<br>
-Assignments:<br>
+**Topic:** <br>
+**Readings:**<br>
+**Assignments:**<br>
 
 #### November 13, 2019
-Topic: <br>	
-Readings:<br>
-Assignments:<br>
+**Topic:** <br>
+**Readings:**<br>
+**Assignments:**<br>
 
 #### November 18, 2019
-Topic: <br>	
-Readings:<br>
-Assignments:<br>
+**Topic:** <br>
+**Readings:**<br>
+**Assignments:**<br>
 
 #### November 20, 2019
-Topic: <br>	
-Readings:<br>
-Assignments:<br>
+**Topic:** <br>
+**Readings:**<br>
+**Assignments:**<br>
 
 #### November 25, 2019
-Topic: <br>
-	Project consultations
-Readings:<br>
-Assignments:<br>
-	1. Bring your project reports ready to discuss
-	
+**Topic:** Project consultations<br>
+**Readings:**<br>
+**Assignments:**<br>
+  1. Bring your project reports ready to discuss
+
 #### November 27, 2019
-Topic: <br>	
-	Gobble gobble
-Readings:<br>
-	N/A
-Assignments:<br>
-	No class today -- you will work on a peer review on your own time
+**Topic:** Gobble gobble<br>
+**Readings:**<br>
+**Assignments:**<br>
+  * No class today -- you will work on a peer review on your own time
 
 #### December 2, 2019
-Topic: <br>	
-Readings:<br>
-Assignments:<br>
+**Topic:** <br>
+**Readings:**<br>
+**Assignments:**<br>
 
 #### December 4, 2019
-Topic: Project presentations!<br>	
-Readings:<br>
-Assignments:<br>
-	* Prepare a great, engaging presentation!
-	
+**Topic:** Project presentations!<br>
+**Readings:**<br>
+**Assignments:**<br>
+  * Prepare a great, engaging presentation!
+
 #### December 9, 2019
-Topic: Project presentations!<br>	
-Readings:<br>
-Assignments:<br>
-	* Prepare a great, engaging presentation!
+**Topic:** Project presentations!<br>
+**Readings:**<br>
+**Assignments:**<br>
+  * Prepare a great, engaging presentation!
 
 #### December 11, 2019
-Topic: Project presentations!<br>	
-Readings:<br>
-Assignments:<br>
-	* Prepare a great, engaging presentation!
+**Topic:** Project presentations!<br>
+**Readings:**<br>
+**Assignments:**<br>  
+    * Prepare a great, engaging presentation!
 
 [Back to top](#welcome-to-pa-881)
