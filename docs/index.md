@@ -315,7 +315,7 @@ _Exemption policy:_ Any student may petition for an exemption to the technology 
   2. Read two past CBA projects carefully. Be ready to discuss them on Monday.
     - [Senegal Operation Clean Neighborhood](https://canvas.wisc.edu/files/9278672/download?download_frd=1)
     - [MTV Shuga](https://canvas.wisc.edu/files/9278673/download?download_frd=1)
-
+-----
 #### September 9, 2019
 **Topic:** Introduction to CBA, discussion of past projects<br>
 **Readings & exercises:**<br>
@@ -325,12 +325,12 @@ _Exemption policy:_ Any student may petition for an exemption to the technology 
 **Assignments:**<br>
   * Please come to class with at least one question or comment about each of the two projects
 	and with any questions you have about the syllabus, broadly.<br>
-
+-----
 #### September 11, 2019
 **Topic:** Conceptual foundations<br>
 **Readings & exercises:**<br>
   * BGVW Chapter 2 (Exercises 2, 3 & 4)
-
+-----
 #### September 16 - 30, 2019
 **Topic:** Valuing costs and benefits when markets exist - _primary markets_<br>
 **Readings & exercises** (exact timing announced in class)
@@ -340,13 +340,13 @@ _Exemption policy:_ Any student may petition for an exemption to the technology 
   *   BGVW, Chapter 5 (Exercise 2)
   *   BGVW, Chapter 6 (Exercise 1)
   *   Robert H. Haveman and David L. Weimer, "[Public Policy Induced Changes in Employment: Valuation Issues for Benefit-Cost Analysis](/docs/papers/Haveman-Weimer-2015.pdf)," Journal of Benefit-Cost Analysis 6(1) 2015, 112–153. _[Skim]_
-
+-----
 #### October 2, 2019
 **Topic:** Valuing costs and benefits when markets exist - secondary markets<br>
 **Readings & exercises**<br>
   *   BGVW, Chapter 7 (Exercises 2 & 3; spreadsheet exercise 4)
   *   BGVW, Case 8
-
+-----
 #### October 7 - 9, 2019
 **Topic:** Basics of discounting for time + social discount rate<br>
 **Readings & exercises:**<br>
@@ -359,7 +359,7 @@ _Exemption policy:_ Any student may petition for an exemption to the technology 
   *   [Canadian Guidelines](http://www.tbs-sct.gc.ca/rtrap-parfa/analys/analys07-eng.asp#Toc178397874)
   *   [New Zealand Guidelines](http://www.treasury.govt.nz/publications/guidance/planning/costbenefitanalysis/guide)
   *   [Bureau of Labor Statistics CPI Calculator](http://www.bls.gov/data/inflation_calculator.htm)
-
+-----
 #### October 14 - 21, 2019
 **Topic:** Uncertainty (I): Expected values, value of information, sensitivity analysis<br>
 **Readings & exercises:**<br>
@@ -367,33 +367,33 @@ _Exemption policy:_ Any student may petition for an exemption to the technology 
 *   BGVW, Case 11
 *   Take a look at [WSIPP displayed results:](http://www.wsipp.wa.gov/BenefitCost)
 *   David L. Weimer and Mark A. Sager, "Early Identification and Treatment of Alzheimer’s Disease: Social and Fiscal Outcomes," Alzheimer’s & Dementia 5(3) 2009, 215–226.
-
+-----
 #### October 23, 2019
 **Topic:** Uncertainty (II): Option price and option value<br>
 **Readings & exercises:**<br>
 *   BGVW, Chapter 12 (Spreadsheet exercise 3)
-
+-----
 #### October 28, 2019
 **Topic:** Life cycle analysis
 <br>
 **Readings & exercises**<br>
 *   Joule A. Bergerson and Lester B. Lave, "[Should We Transmit Coal, Gas, or Electricity: Cost, Efficiency, and Environmental Implication](/docs/papers/Bergerson and Lave - 2005 - Should We Transport Coal, Gas, or Electricity  Co.pdf)," Environmental Science and Technology 39(16) 2005, 5905–5910.
 *   [Visit:](http://www.eiolca.net/) & do the tutorial for the EIO-LCA model.
-
+-----
 #### October 30, 2019
 **Topic:** Midterm!<br>
-
+-----
 #### November 4, 2019
 **Topic:** What is different about CBA in developing countries?<br>
 **Readings:**<br>
 *   Brent, Robert J. 2009. "Cost-Benefit Analysis and the Evaluation of the Effects of Corruption on Public Projects." Handbook of Research on Cost-Benefit Analysis, 388.
 *   Quah, Euston. 2017. "Using Cost-Benefit Analysis In Developed And Developing Countries: Is It The Same?" Macroeconomic Review. Monetary Authority of Singapore, Economic Policy Group.<br>
-
+-----
 #### November 6, 2019
 **Topic:** Stata workshop<br>
 **Assignments:**<br>
 * Read Stata handout
-
+-----
 #### November 11, 2019
 **Topic:** Valuing life and time<br>
 **Readings:**<br>
@@ -401,49 +401,49 @@ _Exemption policy:_ Any student may petition for an exemption to the technology 
 *   León, Gianmarco, and Edward Miguel. 2017. "Risky Transportation Choices and the Value of a Statistical Life." American Economic Journal: Applied Economics 9 (1): 202–28.
 *   Fezzi, Carlo, Ian J. Bateman, and Silvia Ferrini. 2014. "Using Revealed Preferences to Estimate the Value of Travel Time to Recreation Sites." Journal of Environmental Economics and Management 67 (1): 58–70.
 *   Wolff, Hendrik. 2014. "Value of Time: Speeding Behavior and Gasoline Prices." Journal of Environmental Economics and Management 67 (1): 71–88.
-
+-----
 #### November 13, 2019
 **Topic:**    Revealed preferences: experiments & natural experiments <br>
 **Readings:**<br>
 *   BGVW, Chapter 14 (Exercise 2)
 *   BGVW, Case 14
-
+-----
 #### November 18, 2019
 **Topic:**     Revealed preferences: observational studies<br>
 **Readings & exercises**<br>
 *   BGVW, Ch 15 (Spreadsheet exercise 3)
 *   BGVW, Case 17
 *   Weimer, David L., and Michael J. Wolkoff. 2001\. "School Performance and Housing Values: Using Non- Contiguous District and Incorporation Boundaries to Identify School Effects." National Tax Journal 54 (2): 231–53.
-
+-----
 #### November 20, 2019
 **Topic:** Stated preferences: good practices<br>
 **Readings:**<br>
 *   BGVW, Chapter 13
 *   BGVW, Chapter 16 (Exercise 2)
 *   BGVW, Case 16
-
+-----
 #### November 25, 2019
 **Topic:** Project consultations<br>
 **Assignments:**<br>
   1. Bring your project reports ready to discuss
-
+-----
 #### November 27, 2019
 **Topic:** Gobble gobble<br>
 **Readings:**<br>
 **Assignments:**<br>
   * No class today -- work on peer review on your own time
-
+-----
 #### December 2, 2019
 **Topic:** Catch-up class<br>
 **Readings:**<br>
 * TBD
-
+-----
 #### December 4, 2019
 **Topic:** Project presentations!<br>
-
+-----
 #### December 9, 2019
 **Topic:** Project presentations!<br>
-
+-----
 #### December 11, 2019
 **Topic:** Project presentations!<br>
 
