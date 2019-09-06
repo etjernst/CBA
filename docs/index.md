@@ -41,8 +41,8 @@ Graduate/professional standing and PA818 & PA880, or POP HLTH/ISYE 875, or AAE 6
         * [File naming](#file-naming-convention)
         * [Assessment](#assessment)
     * [Course materials](#course-materials)
-    * [Schedule / overview](#schedule)
-    * [Detailed schedule](#detailed-schedule)
+    * [Schedule](#schedule)
+    * [Detailed schedule of readings](#detailed-schedule-of-readings)
 * [Values](#values)
     * [Diversity & inclusion](#diversity-and-inclusion)
     * [Academic integrity](#academic-integrity)
@@ -168,8 +168,6 @@ All teams will hand in their first drafts on November 25. I will assign each of 
 [Back to top](#welcome-to-pa-881)
 
 #### 5. Cost benefit project (40% of course grade)
-<details> <summary> See more
-</summary>
 
 Although you can learn the basics of CBA theory in the classroom, actually carrying one out is part theory, part art. This art is best mastered by practicing it. Toward this end, you will work together in teams to conduct a CBA of a real intervention/program/policy for a real client.<br>
 
@@ -179,22 +177,23 @@ or unable to give the project a high priority</b> </p>
 
 To build up towards a successful project, we have several milestones along the way. These assignments are there to keep you on track with your project, and to give me a chance to provide feedback:
 
-* Project report 1 (summary + plan) is due on **September 18**.<br>
+* **Project report 1** (summary + plan) is due on **September 18**.<br>
+
 <details> <summary> See more
 </summary>
 Prepare a report that describes the issue being addressed in the project and sketches a plan for completion.
 
 </details>
 
+* **Project report 2** (data report) will be due on **October 2**.<br>
 
-* Project report 2 (data report) will be due on **October 2**.<br>
 <details> <summary> See more
 </summary>
 Prepare a complete report on the data that you have from your client, as well as other data sources. Show clearly that you have begun working with and understand the data. I encourage you to present summary statistics and basic figures describing your data.  
 
 </details>
 
-* Project report 3 (categories & measurement) will be due on **October 16**.<br>
+* **Project report 3** (categories & measurement) will be due on **October 16**.<br>
 
 <details> <summary> See more
 </summary>
@@ -203,20 +202,16 @@ _Read BGVW, Chapter 17, to get an idea of available shadow prices from secondary
 
 </details>
 
-
-* First draft due on **November 25**.
-
-* Project consultations on **November 25**.
-
-* Team presentations on **December 4, 9, and 11**.
-
-* A revised draft is due on **December 19**, including a clear memorandum explaining the revisions in response to feedback from first draft.
+* **First draft** due on **November 25**.
+* **Project consultations** on **November 25**.
+* **Team presentations** on **December 4, 9, and 11**.
+* **A revised draft** is due on **December 19**, including a clear memorandum explaining the revisions in response to feedback from first draft.
 
 * Working in teams is hard, but team work is key to most professions (including policy analysts!). Project work is therefore an important part of your professional development. I expect team members to be professional in interactions with their clients as well as among themselves. Each student will be asked to evaluate the effort and contributions of other team members. I will take the responses into account when assigning individual grades. The peer evaluation will also be due on **December 19**.
 
 > NOTE: If your team experiences issues or has trouble communicating, please don't wait until the peer evaluation! Feel free to come to me for advice before things get worse.
 
-* In addition, you should plan on participating in a briefing on the final report at your client’s convenience, most likely via Skype. I expect each team member to engage fully with the project. That said, please appoint a single team member for client communications. Each team member should be familiar with every aspect of the CBA.
+* In addition, you should plan on participating in a **briefing** on the final report at your client’s convenience, most likely via Skype. I expect each team member to engage fully with the project. That said, please appoint a single team member for client communications. Each team member should be familiar with every aspect of the CBA.
 
 > **I reserve the right to lower the grade of anyone who does not contribute fully to their team. You should plan to be fully engaged with the project. I additionally reserve the right to give a failing grade in the course for anyone who acts unprofessionally.**
 
@@ -269,50 +264,50 @@ _Exemption policy:_ Any student may petition for an exemption to the technology 
 
 ---
 
-## Schedule
+# Schedule
 
 
-|Day|Date|Topic|Reading|Exercises|Classroom|
-| --- | --- | --- | --- | --- | ---|
-|	Wed	|	9/4/19	| ~~Introduction~~	| BGVW, Ch. 1 + past projects | | ~~Ingraham 222~~ |
-|	Mon	|	9/9/19	| Discuss team projects & intro | BGVW, Ch. 8 |  | Ingraham 222 |
-|	Wed	|	9/11/19	|Conceptual foundations|BGVW, Ch 2 | Ch2: Ex 2, 3 & 4| Education L159|
-|	Mon	|	9/16/19	|		|		|
-|	Wed	|	9/18/19	|		|		|
-|	Mon	|	9/23/19	|		|		|
-|	Wed	|	9/25/19	|		|		|
-|	Mon	|	9/30/19	|		|		|
-|	Wed	|	10/2/19	|		|		|
-|	Mon	|	10/7/19	|		|		|
-|	Wed	|	10/9/19	|		|		|
-|	Mon	|	10/14/19	|		|		|
-|	Wed	|	10/16/19	|		|		|
-|	Mon	|	10/21/19	|		|		|
-|	Wed	|	10/23/19	|		|		|
-|	Mon	|	10/28/19	|		|		|
-|	Wed	|	10/30/19	|		|		|
-|	Mon	|	11/4/19	|		|		|
-|	Wed	|	11/6/19	|		|		|
-|	Mon	|	11/11/19	|		|		|
-|	Wed	|	11/13/19	|		|		|
-|	Mon	|	11/18/19	|		|		|
-|	Wed	|	11/20/19	|		|		|
-|	Mon	|	11/25/19	| Team consultations | N/A | |
-|	Wed	|	11/27/19	| Gobble gobble | N/A | No in-class meeting |
-|	Mon	|	12/2/19	|		|		|
-|	Wed	|	12/4/19	|		|		|
-|	Mon	|	12/9/19	|		|		|
-|	Wed	|	12/11/19	|		|		|
+|Day|Date|Topic|Assignments|Classroom|
+| --- | --- | --- | --- | --- |
+|Wed	|9/4/19	| ~~Introduction~~	| | ~~Ingraham 222~~ |
+|Mon	|9/9/19	| Discuss team projects & intro | |Ingraham 222 |
+|Wed	|9/11/19	|Conceptual foundations| | Education L159|
+|Mon	|9/16/19	|Valuation in primary markets| |Education L159|
+|Wed	|9/18/19	|Valuation in primary markets| Project report 1|Education L159|
+|Mon	|9/23/19	|Valuation in primary markets| |Education L159|
+|Wed	|9/25/19	|Valuation in primary markets| |Education L159|
+|Mon	|9/30/19	|Valuation in primary markets| |Education L159|
+|Wed	|10/2/19	|Valuation in secondary markets| Project report 2|Education L159|
+|Mon	|10/7/19	|Discounting| |Education L159|
+|Wed	|10/9/19	|Uncertainty (I)| |Education L159|
+|Mon	|10/14/19	|Uncertainty (I)| |Education L159|
+|Wed	|10/16/19	|Uncertainty (I)|Project report 3|Education L159|
+|Mon	|10/21/19	|Uncertainty (I)| |Education L159|
+|Wed	|10/23/19	|Uncertainty (II)| |Education L159|
+|Mon	|10/28/19	|Life cycle analysis| |Education L159|
+|Wed	|10/30/19	|Midterm| |Education L159|
+|Mon	|11/4/19	|CBA in developing countries| |Ingraham 222|
+|Wed	|11/6/19	|Stata workshop|Read & do Stata handout |Ingraham 222|
+|Mon	|11/11/19	|Valuing life & time| |Ingraham 222|
+|Wed	|11/13/19	|Revealed preferences & research designs| |Ingraham 222|
+|Mon	|11/18/19	|Revealed preferences & research designs| |Ingraham 222|
+|Wed	|11/20/19	|Stated preferences| |Ingraham 222|
+|Mon	|11/25/19	| Team consultations |1st draft |Ingraham 222|
+|Wed	|11/27/19	| Gobble gobble | | _No in-class meeting_ |
+|Mon	|12/2/19	|Catch-up class| |Ingraham 222|
+|Wed	|12/4/19	|Presentations| Peer feedback + questions due before class |Education L159|
+|Mon	|12/9/19	|Presentations| |Education L159|
+|Wed	|12/11/19	|Presentations| | |Education L159|
 
 [Back to top](#welcome-to-pa-881)
 
 -----
 
-## Detailed schedule
+## Detailed schedule of readings
 
 #### September 4, 2019
 **Topic:** Introduction to CBA<br>
-**Readings:**
+**Readings & exercises:**
   * BGVW, Ch. 1 + past projects<br>
 
 **Assignments:**<br>
@@ -323,125 +318,112 @@ _Exemption policy:_ Any student may petition for an exemption to the technology 
 
 #### September 9, 2019
 **Topic:** Introduction to CBA, discussion of past projects<br>
-**Readings:**<br>
+**Readings & exercises:**<br>
   * BGVW, Chapter 8
-  * BGVW, Chapter 17 [skim]
+  * BGVW, Chapter 17 _[Skim]_
 
 **Assignments:**<br>
   * Please come to class with at least one question or comment about each of the two projects
 	and with any questions you have about the syllabus, broadly.<br>
 
 #### September 11, 2019
-**Topic:** <br>
-**Readings:**<br>
-**Assignments:**<br>
+**Topic:** Conceptual foundations<br>
+**Readings & exercises:**<br>
+  * BGVW Chapter 2 (Exercises 2, 3 & 4)
 
-#### September 16, 2019
-**Topic:** <br>
-**Readings:**<br>
-**Assignments:**<br>
-
-#### September 18, 2019
-**Topic:** <br>
-**Readings:**<br>
-**Assignments:**<br>
-
-#### September 23, 2019
-**Topic:** <br>
-**Readings:**<br>
-**Assignments:**<br>
-
-#### September 25, 2019
-**Topic:** <br>
-**Readings:**<br>
-**Assignments:**<br>
-
-#### September 30, 2019
-**Topic:** <br>
-**Readings:**<br>
-**Assignments:**<br>
+#### September 16 - 30, 2019
+**Topic:** Valuing costs and benefits when markets exist - _primary markets_<br>
+**Readings & exercises** (exact timing announced in class)
+  * BGVW, Chapter 3 (Exercises 1 & 2; spreadsheet exercise 3 – spreadsheet here)
+  *   BGVW, Chapter 4 (Spreadsheet exercise 2)
+  *   BGVW, Case 4
+  *   BGVW, Chapter 5 (Exercise 2)
+  *   BGVW, Chapter 6 (Exercise 1)
+  *   Robert H. Haveman and David L. Weimer, "[Public Policy Induced Changes in Employment: Valuation Issues for Benefit-Cost Analysis](/docs/papers/Haveman-Weimer-2015.pdf)," Journal of Benefit-Cost Analysis 6(1) 2015, 112–153. _[Skim]_
 
 #### October 2, 2019
-**Topic:** <br>
-**Readings:**<br>
-**Assignments:**<br>
+**Topic:** Valuing costs and benefits when markets exist - secondary markets<br>
+**Readings & exercises**<br>
+  *   BGVW, Chapter 7 (Exercises 2 & 3; spreadsheet exercise 4)
+  *   BGVW, Case 8
 
-#### October 7, 2019
-**Topic:** <br>
-**Readings:**<br>
-**Assignments:**<br>
+#### October 7 - 9, 2019
+**Topic:** Basics of discounting for time + social discount rate<br>
+**Readings & exercises:**<br>
+*   BGVW, Chapter 9 (Exercises 1, 2, 3 & 4; spreadsheet exercise 6)
+*   BGVW, Case 9
+*   BGVW, Chapter 10 (Spreadsheet exercise 1)
+*   Skim/scan the following:
+  *   [OMB Guidelines](http://www.whitehouse.gov/omb/circulars_a004_a-4)
+  *   [UK Guidelines (The Green Book)](http://www.gov.uk/government/publications/the-green-book-appraisal-and-evaluation-in-central-governent)
+  *   [Canadian Guidelines](http://www.tbs-sct.gc.ca/rtrap-parfa/analys/analys07-eng.asp#Toc178397874)
+  *   [New Zealand Guidelines](http://www.treasury.govt.nz/publications/guidance/planning/costbenefitanalysis/guide)
+  *   [Bureau of Labor Statistics CPI Calculator](http://www.bls.gov/data/inflation_calculator.htm)
 
-#### October 9, 2019
-**Topic:** <br>
-**Readings:**<br>
-**Assignments:**<br>
-
-#### October 14, 2019
-**Topic:** <br>
-**Readings:**<br>
-**Assignments:**<br>
-
-#### October 16, 2019
-**Topic:** <br>
-**Readings:**<br>
-**Assignments:**<br>
-
-#### October 21, 2019
-**Topic:** <br>
-**Readings:**<br>
-**Assignments:**<br>
+#### October 14 - 21, 2019
+**Topic:** Uncertainty (I): Expected values, value of information, sensitivity analysis<br>
+**Readings & exercises:**<br>
+*   BGVW, Chapter 11 (Exercises 1, 3, 4 & 6; spreadsheet 5)
+*   BGVW, Case 11
+*   Take a look at [WSIPP displayed results:](http://www.wsipp.wa.gov/BenefitCost)
+*   David L. Weimer and Mark A. Sager, "Early Identification and Treatment of Alzheimer’s Disease: Social and Fiscal Outcomes," Alzheimer’s & Dementia 5(3) 2009, 215–226.
 
 #### October 23, 2019
-**Topic:** <br>
-**Readings:**<br>
-**Assignments:**<br>
+**Topic:** Uncertainty (II): Option price and option value<br>
+**Readings & exercises:**<br>
+*   BGVW, Chapter 12 (Spreadsheet exercise 3)
 
 #### October 28, 2019
-**Topic:** <br>
-**Readings:**<br>
-**Assignments:**<br>
+**Topic:** Life cycle analysis
+<br>
+**Readings & exercises**<br>
+*   Joule A. Bergerson and Lester B. Lave, "[Should We Transmit Coal, Gas, or Electricity: Cost, Efficiency, and Environmental Implication](/docs/papers/Bergerson and Lave - 2005 - Should We Transport Coal, Gas, or Electricity  Co.pdf)," Environmental Science and Technology 39(16) 2005, 5905–5910.
+*   [Visit:](http://www.eiolca.net/) & do the tutorial for the EIO-LCA model.
 
 #### October 30, 2019
 **Topic:** Midterm!<br>
-**Readings:**
-  * Everything!<br>
-
-**Assignments:**<br>
-  * Study, study, study!
 
 #### November 4, 2019
-**Topic:** <br>
+**Topic:** What is different about CBA in developing countries?<br>
 **Readings:**<br>
-**Assignments:**<br>
+*   Brent, Robert J. 2009. "Cost-Benefit Analysis and the Evaluation of the Effects of Corruption on Public Projects." Handbook of Research on Cost-Benefit Analysis, 388.
+*   Quah, Euston. 2017. "Using Cost-Benefit Analysis In Developed And Developing Countries: Is It The Same?" Macroeconomic Review. Monetary Authority of Singapore, Economic Policy Group.<br>
 
 #### November 6, 2019
-**Topic:** <br>
-**Readings:**<br>
+**Topic:** Stata workshop<br>
 **Assignments:**<br>
+* Read Stata handout
 
 #### November 11, 2019
-**Topic:** <br>
+**Topic:** Valuing life and time<br>
 **Readings:**<br>
-**Assignments:**<br>
+*   Belenky, Peter. 2011. "Revised Departmental Guidance on Valuation of Travel Time in Economic Analysis." _(Read: pp. 1-2, 11-14, skim the rest)_
+*   León, Gianmarco, and Edward Miguel. 2017. "Risky Transportation Choices and the Value of a Statistical Life." American Economic Journal: Applied Economics 9 (1): 202–28.
+*   Fezzi, Carlo, Ian J. Bateman, and Silvia Ferrini. 2014. "Using Revealed Preferences to Estimate the Value of Travel Time to Recreation Sites." Journal of Environmental Economics and Management 67 (1): 58–70.
+*   Wolff, Hendrik. 2014. "Value of Time: Speeding Behavior and Gasoline Prices." Journal of Environmental Economics and Management 67 (1): 71–88.
 
 #### November 13, 2019
-**Topic:** <br>
+**Topic:**    Revealed preferences: experiments & natural experiments <br>
 **Readings:**<br>
-**Assignments:**<br>
+*   BGVW, Chapter 14 (Exercise 2)
+*   BGVW, Case 14
 
 #### November 18, 2019
-**Topic:** <br>
-**Readings:**<br>
-**Assignments:**<br>
+**Topic:**     Revealed preferences: observational studies<br>
+**Readings & exercises**<br>
+*   BGVW, Ch 15 (Spreadsheet exercise 3)
+*   BGVW, Case 17
+*   Weimer, David L., and Michael J. Wolkoff. 2001\. "School Performance and Housing Values: Using Non- Contiguous District and Incorporation Boundaries to Identify School Effects." National Tax Journal 54 (2): 231–53.
 
 #### November 20, 2019
-**Topic:** <br>
+**Topic:** Stated preferences: good practices<br>
 **Readings:**<br>
-**Assignments:**<br>
+*   BGVW, Chapter 13
+*   BGVW, Chapter 16 (Exercise 2)
+*   BGVW, Case 16
 
 #### November 25, 2019
 **Topic:** Project consultations<br>
-**Readings:**<br>
 **Assignments:**<br>
   1. Bring your project reports ready to discuss
 
@@ -449,29 +431,20 @@ _Exemption policy:_ Any student may petition for an exemption to the technology 
 **Topic:** Gobble gobble<br>
 **Readings:**<br>
 **Assignments:**<br>
-  * No class today -- you will work on a peer review on your own time
+  * No class today -- work on peer review on your own time
 
 #### December 2, 2019
-**Topic:** <br>
+**Topic:** Catch-up class<br>
 **Readings:**<br>
-**Assignments:**<br>
+* TBD
 
 #### December 4, 2019
 **Topic:** Project presentations!<br>
-**Readings:**<br>
-**Assignments:**<br>
-  * Prepare a great, engaging presentation!
 
 #### December 9, 2019
 **Topic:** Project presentations!<br>
-**Readings:**<br>
-**Assignments:**<br>
-  * Prepare a great, engaging presentation!
 
 #### December 11, 2019
 **Topic:** Project presentations!<br>
-**Readings:**<br>
-**Assignments:**<br>  
-    * Prepare a great, engaging presentation!
 
 [Back to top](#welcome-to-pa-881)

@@ -15,7 +15,7 @@
     <div class="wrapper">
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
-        
+
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
@@ -44,11 +44,14 @@
 
       </section>
       <footer>
-        <p><a href="https://etjernst.github.io/CBA/#index">Back to top</a></span></p><br>
+        <p><a href="https://etjernst.github.io/CBA/#introduction">Introduction</a></p>
+        <p><a href="https://etjernst.github.io/CBA/#details">Details</a></p>
+        <p><a href="https://etjernst.github.io/CBA/#values">Values</a></p>
+
         <p><span style=" color: #D3D3D3;"><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></span></small></p>
         {% if site.github.is_project_page %}
           <p><span style=" color: #D3D3D3;"><small>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></small></span></p>
-        {% endif %} 
+        {% endif %}
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
