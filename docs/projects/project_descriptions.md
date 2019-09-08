@@ -33,7 +33,7 @@ The [Mali kalanso](http://www.malikalanso.org/) project aims to change this. Aft
 This CBA project will attempt to simulate what the impacts of the school would be _in the absence_ of the numerous complementary programs. The goal is to better estimate the benefits of implementing a complex program filling several needs at once.
 
 The inaugural class of 96 first-graders:
-![first grade](https://c1.iggcdn.com/indiegogo-media-prod-cld/image/upload/c_fill,w_695,g_auto,q_auto,dpr_1.0,f_auto,h_460/dlovcu45a3dldoxduwrg){:height="230px" width="347.5px"}
+![first grade](https://c1.iggcdn.com/indiegogo-media-prod-cld/image/upload/c_fill,w_695,g_auto,q_auto,dpr_1.0,f_auto,h_460/dlovcu45a3dldoxduwrg){:height="230px" width="347.5px"}<br>
 _Source: [Indiegogo campaign](https://www.indiegogo.com/projects/build-a-middle-school-with-mali-kalanso/)_
 
 
