@@ -1,5 +1,6 @@
 # Welcome to PA 881
 ## International Cost-Benefit Analysis | Fall 2019
+### Syllabus
 
 
  |    Class details                  | Instructor details       |         
