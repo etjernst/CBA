@@ -6,7 +6,7 @@
  |    Class details                  | Instructor details       |         
  |     ---                           |            --           |      
  | Meeting time: MW 8-9:15        | Instructor: Dr. Tjernström   |
- | Meeting location: Ingraham 222 / Ingraham 222 | Office: Taylor Hall 520      |
+ | Meeting location: Ingraham 222 | Office: Taylor Hall 520      |
  | Office hours: Mondays 9:30-11:30 |  Email: tjernstroem@wisc.edu |
  | [Course website](https://etjernst.github.io/CBA/) | [Instructor website](https://www.lafollette.wisc.edu/sites/tjernstrom/) |
 
@@ -121,10 +121,10 @@ This course will be face-to-face. We will interact both in class and outside of 
 [Back to top](#welcome-to-pa-881)
 
 ### File naming convention
-```
+
 All course materials and submissions will be due electronically in PDF format on Canvas.<br>
 Please name files according to this convention:
-
+```
 	- Assignment_FirstName_LastName (for individual work)
 	- Assignment_ProjectName (for group projects)
 
@@ -306,7 +306,7 @@ _Exemption policy:_ Any student may petition for an exemption to the technology 
 
 **Assignments:**<br>
   1. Read through the syllabus -- I will not bring printed versions to class!
-  2. Read two past CBA projects carefully. Be ready to discuss them on Monday.
+  2. Read two past CBA projects carefully. Be ready to discuss them on Monday.<br>
     - [Senegal Operation Clean Neighborhood](https://canvas.wisc.edu/files/9278672/download?download_frd=1)<br>
     - [MTV Shuga](https://canvas.wisc.edu/files/9278673/download?download_frd=1)
 
