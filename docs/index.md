@@ -166,8 +166,6 @@ All teams will hand in their first drafts on November 25. I will assign each of 
 
 </details>
 
-[Back to top](#welcome-to-pa-881)
-
 #### V) Cost benefit project (40% of course grade)
 
 Although you can learn the basics of CBA theory in the classroom, actually carrying one out is part theory, part art. This art is best mastered by practicing it. Toward this end, you will work together in teams to conduct a CBA of a real intervention/program/policy for a real client.<br>
