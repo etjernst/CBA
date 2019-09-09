@@ -6,7 +6,7 @@
  |    Class details                  | Instructor details       |         
  |     ---                           |            --           |      
  | Meeting time: MW 8-9:15        | Instructor: Dr. Tjernström   |
- | Meeting location: Ingraham 222 / Education L159 | Office: Taylor Hall 520      |
+ | Meeting location: Ingraham 222 / Ingraham 222 | Office: Taylor Hall 520      |
  | Office hours: Mondays 9:30-11:30 |  Email: tjernstroem@wisc.edu |
  | [Course website](https://etjernst.github.io/CBA/) | [Instructor website](https://www.lafollette.wisc.edu/sites/tjernstrom/) |
 
@@ -265,21 +265,21 @@ _Exemption policy:_ Any student may petition for an exemption to the technology 
 | --- | --- | --- | --- | --- |
 |Wed	|9/4/19	| ~~Introduction~~	| | ~~Ingraham 222~~ |
 |Mon	|9/9/19	| Discuss team projects & intro | |Ingraham 222 |
-|Wed	|9/11/19	|Conceptual foundations| | Education L159|
-|Mon	|9/16/19	|Valuation in primary markets| |Education L159|
-|Wed	|9/18/19	|Valuation in primary markets| Project report 1|Education L159|
-|Mon	|9/23/19	|Valuation in primary markets| |Education L159|
-|Wed	|9/25/19	|Valuation in primary markets| |Education L159|
-|Mon	|9/30/19	|Valuation in primary markets| |Education L159|
-|Wed	|10/2/19	|Valuation in secondary markets| Project report 2|Education L159|
-|Mon	|10/7/19	|Discounting| |Education L159|
-|Wed	|10/9/19	|Uncertainty (I)| |Education L159|
-|Mon	|10/14/19	|Uncertainty (I)| |Education L159|
-|Wed	|10/16/19	|Uncertainty (I)|Project report 3|Education L159|
-|Mon	|10/21/19	|Uncertainty (I)| |Education L159|
-|Wed	|10/23/19	|Uncertainty (II)| |Education L159|
-|Mon	|10/28/19	|Life cycle analysis| |Education L159|
-|Wed	|10/30/19	|Midterm| |Education L159|
+|Wed	|9/11/19	|Conceptual foundations| | Ingraham 222|
+|Mon	|9/16/19	|Valuation in primary markets| |Ingraham 222|
+|Wed	|9/18/19	|Valuation in primary markets| Project report 1|Ingraham 222|
+|Mon	|9/23/19	|Valuation in primary markets| |Ingraham 222|
+|Wed	|9/25/19	|Valuation in primary markets| |Ingraham 222|
+|Mon	|9/30/19	|Valuation in primary markets| |Ingraham 222|
+|Wed	|10/2/19	|Valuation in secondary markets| Project report 2|Ingraham 222|
+|Mon	|10/7/19	|Discounting| |Ingraham 222|
+|Wed	|10/9/19	|Uncertainty (I)| |Ingraham 222|
+|Mon	|10/14/19	|Uncertainty (I)| |Ingraham 222|
+|Wed	|10/16/19	|Uncertainty (I)|Project report 3|Ingraham 222|
+|Mon	|10/21/19	|Uncertainty (I)| |Ingraham 222|
+|Wed	|10/23/19	|Uncertainty (II)| |Ingraham 222|
+|Mon	|10/28/19	|Life cycle analysis| |Ingraham 222|
+|Wed	|10/30/19	|Midterm| |Ingraham 222|
 |Mon	|11/4/19	|CBA in developing countries| |Ingraham 222|
 |Wed	|11/6/19	|Stata workshop|Read & do Stata handout |Ingraham 222|
 |Mon	|11/11/19	|Valuing life & time| |Ingraham 222|
@@ -289,9 +289,9 @@ _Exemption policy:_ Any student may petition for an exemption to the technology 
 |Mon	|11/25/19	| Team consultations |1st draft |Ingraham 222|
 |Wed	|11/27/19	| Gobble gobble | | _No in-class meeting_ |
 |Mon	|12/2/19	|Catch-up class| |Ingraham 222|
-|Wed	|12/4/19	|Presentations| Peer feedback + questions due before class |Education L159|
-|Mon	|12/9/19	|Presentations| |Education L159|
-|Wed	|12/11/19	|Presentations| | |Education L159|
+|Wed	|12/4/19	|Presentations| Peer feedback + questions due before class |Ingraham 222|
+|Mon	|12/9/19	|Presentations| |Ingraham 222|
+|Wed	|12/11/19	|Presentations| | |Ingraham 222|
 
 [Back to top](#welcome-to-pa-881)
 
