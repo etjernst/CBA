@@ -134,7 +134,7 @@ Please name files according to this convention:
 
 Several assessment components are designed to help you reach the goals listed above:
 
-#### 1. Class participation (10% of course grade)
+#### I) Class participation (10% of course grade)
 <details> <summary> See more
 </summary>
 Class sessions will mix lectures, discussion, case studies and problem solving to explore both the practical and conceptual aspects of CBA. I expect you to actively participate in class and to diligently complete assigned exercises and readings. I have several reasons for grading participation:
@@ -149,17 +149,17 @@ _Note on readings:_ Some of the readings might be challenging, as they occasiona
 
 </details>
 
-#### 2. Stata exercise (10% of your grade)
+#### II) Stata exercise (10% of your grade)
 <details> <summary> See more
 </summary>
 We will have an in-class Stata class, followed by a homework that builds on the in-class work. The exercise is designed to be useful for completing your project. I hope that the skills that you pick up will also be useful in other courses and in your professional lives.
 
 </details>
 
-#### 3. Midterm exam (30% of course grade)
+#### III) Midterm exam (30% of course grade)
 An in-class midterm exam on October 30 will give you a chance to show me what you have learned so far.
 
-#### 4. Peer feedback for another team's CBA draft (10% of course grade)
+#### IV) Peer feedback for another team's CBA draft (10% of course grade)
 <details> <summary> See more
 </summary>
 All teams will hand in their first drafts on November 25. I will assign each of you a draft report to read. You will prepare two specific questions for the team that you are assigned to. You will also write a brief memo with constructive feedback.
@@ -168,7 +168,7 @@ All teams will hand in their first drafts on November 25. I will assign each of 
 
 [Back to top](#welcome-to-pa-881)
 
-#### 5. Cost benefit project (40% of course grade)
+#### V) Cost benefit project (40% of course grade)
 
 Although you can learn the basics of CBA theory in the classroom, actually carrying one out is part theory, part art. This art is best mastered by practicing it. Toward this end, you will work together in teams to conduct a CBA of a real intervention/program/policy for a real client.<br>
 
@@ -178,45 +178,40 @@ or unable to give the project a high priority</b> </p>
 
 To build up towards a successful project, we have several milestones along the way. These assignments are there to keep you on track with your project, and to give me a chance to provide feedback:
 
-* **Project report 1** (summary + plan) is due on **September 18**.<br>
+1. **Project report 1** (summary + plan) is due on **September 18**.<br>
 
-<details> <summary> See more
-</summary>
-Prepare a report that describes the issue being addressed in the project and sketches a plan for completion.
+    <details> <summary> See more
+    </summary>
+    Prepare a report that describes the issue being addressed in the project and sketches a plan for completion.
+    </details>
 
-</details>
+2. **Project report 2** (data report) will be due on **October 2**.<br>
 
-* **Project report 2** (data report) will be due on **October 2**.<br>
+    <details> <summary> See more
+    </summary>
+    Prepare a complete report on the data that you have from your client, as well as other data sources. Show clearly that you have begun working with and understand the data. I encourage you to present summary statistics and basic figures describing your data.  
+    </details>
 
-<details> <summary> See more
-</summary>
-Prepare a complete report on the data that you have from your client, as well as other data sources. Show clearly that you have begun working with and understand the data. I encourage you to present summary statistics and basic figures describing your data.  
+3. **Project report 3** (categories & measurement) will be due on **October 16**.<br>
 
-</details>
+    <details> <summary> See more
+    </summary>
+    Prepare a list of the relevant categories of costs and benefits. Indicate clearly how you plan to measure each. Map these to the data that you have and note where you will get additional data if needed.
+    _Read BGVW, Chapter 17, to get an idea of available shadow prices from secondary sources._
+    </details>
 
-* **Project report 3** (categories & measurement) will be due on **October 16**.<br>
+4. **First draft** due on **November 25**.
+5. **Project consultations** on **November 25**.
+6. **Team presentations** on **December 4, 9, and 11**.
+7. **A revised draft** is due on **December 19**, including a clear memorandum explaining the revisions in response to feedback from first draft.
+8. **Peer evaluation**: working in teams is hard, but team work is key to most professions (including policy analysts!). Project work is therefore an important part of your professional development. I expect team members to be professional in interactions with their clients as well as among themselves. Each student will be asked to evaluate the effort and contributions of other team members. I will take the responses into account when assigning individual grades. The peer evaluation will also be due on **December 19**.
 
-<details> <summary> See more
-</summary>
-Prepare a list of the relevant categories of costs and benefits. Indicate clearly how you plan to measure each. Map these to the data that you have and note where you will get additional data if needed.
-_Read BGVW, Chapter 17, to get an idea of available shadow prices from secondary sources._
+    > NOTE: If your team experiences issues or has trouble communicating, please don't wait until the peer evaluation! Feel free to come to me for advice before things get worse.
 
-</details>
+9. In addition, you should plan on participating in a **briefing** on the final report at your client’s convenience, most likely via Skype. I expect each team member to engage fully with the project. That said, please appoint a single team member for client communications. Each team member should be familiar with every aspect of the CBA.
 
-* **First draft** due on **November 25**.
-* **Project consultations** on **November 25**.
-* **Team presentations** on **December 4, 9, and 11**.
-* **A revised draft** is due on **December 19**, including a clear memorandum explaining the revisions in response to feedback from first draft.
+    > **I reserve the right to lower the grade of anyone who does not contribute fully to their team. You should plan to be fully engaged with the project. I additionally reserve the right to give a failing grade in the course for anyone who acts unprofessionally.**
 
-* Working in teams is hard, but team work is key to most professions (including policy analysts!). Project work is therefore an important part of your professional development. I expect team members to be professional in interactions with their clients as well as among themselves. Each student will be asked to evaluate the effort and contributions of other team members. I will take the responses into account when assigning individual grades. The peer evaluation will also be due on **December 19**.
-
-> NOTE: If your team experiences issues or has trouble communicating, please don't wait until the peer evaluation! Feel free to come to me for advice before things get worse.
-
-* In addition, you should plan on participating in a **briefing** on the final report at your client’s convenience, most likely via Skype. I expect each team member to engage fully with the project. That said, please appoint a single team member for client communications. Each team member should be familiar with every aspect of the CBA.
-
-> **I reserve the right to lower the grade of anyone who does not contribute fully to their team. You should plan to be fully engaged with the project. I additionally reserve the right to give a failing grade in the course for anyone who acts unprofessionally.**
-
-</details>
 
 [Back to top](#welcome-to-pa-881)
 
@@ -227,7 +222,7 @@ We will rely extensively on the assigned (required) textbook:
 
 *   Anthony E. Boardman, David H. Greenberg, Aidan R. Vining, and David L. Weimer, Cost- Benefit Analysis: Concepts and Practice, 5th ed. (Upper Saddle River, New Jersey: Prentice Hall, 2018).
 
-I will additionally make other readings and class materials available on Canvas.
+I will additionally make other readings and class materials available on Canvas.<br>
 [Back to top](#welcome-to-pa-881)
 
 ---
