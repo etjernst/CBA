@@ -299,7 +299,7 @@ _Exemption policy:_ Any student may petition for an exemption to the technology 
 
 ## Detailed schedule of readings
 
-_Note:_ All the spreadsheets are posted [here](spreadsheets/). I also link them below where relevant.
+_Note:_ All the spreadsheets are posted [here](https://github.com/etjernst/CBA/tree/master/docs/spreadsheets). I also link them below where relevant.
 
 #### September 4, 2019
 **Topic:** Introduction to CBA<br>
