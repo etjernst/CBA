@@ -336,8 +336,8 @@ _Note:_ All the spreadsheets are posted [here](https://github.com/etjernst/CBA/t
 #### September 16 - 30, 2019
 **Topic:** Valuing costs and benefits when markets exist - _primary markets_<br>
 **Readings & exercises** (exact timing announced in class)
-  * BGVW, Chapter 3 (Exercises 1 & 2; spreadsheet exercise 3 – spreadsheet here)
-  *   BGVW, Chapter 4 (Spreadsheet exercise 2)
+  * BGVW, Chapter 3 (Exercises 1 & 2; [spreadsheet exercise 3](https://github.com/etjernst/CBA/raw/master/docs/spreadsheets/Ex_3_3-1.xls))
+  *   BGVW, Chapter 4 ([Spreadsheet exercise 2](https://github.com/etjernst/CBA/raw/master/docs/spreadsheets/Ex_4_2.xls))
   *   BGVW, Case 4
   *   BGVW, Chapter 5 (Exercise 2)
   *   BGVW, Chapter 6 (Exercise 1)
@@ -348,7 +348,7 @@ _Note:_ All the spreadsheets are posted [here](https://github.com/etjernst/CBA/t
 #### October 2, 2019
 **Topic:** Valuing costs and benefits when markets exist - secondary markets<br>
 **Readings & exercises**<br>
-  *   BGVW, Chapter 7 (Exercises 2 & 3; spreadsheet exercise 4)
+  *   BGVW, Chapter 7 (Exercises 2 & 3; [spreadsheet exercise 4](https://github.com/etjernst/CBA/raw/master/docs/spreadsheets/Ex_7_4.xls))
   *   BGVW, Case 8
 
 
@@ -357,9 +357,9 @@ _Note:_ All the spreadsheets are posted [here](https://github.com/etjernst/CBA/t
 #### October 7 - 9, 2019
 **Topic:** Basics of discounting for time + social discount rate<br>
 **Readings & exercises:**<br>
-*   BGVW, Chapter 9 (Exercises 1, 2, 3 & 4; spreadsheet exercise 6)
+*   BGVW, Chapter 9 (Exercises 1, 2, 3 & 4; [spreadsheet exercise 6](https://github.com/etjernst/CBA/raw/master/docs/spreadsheets/Ex_9_6.xlsx))
 *   BGVW, Case 9
-*   BGVW, Chapter 10 (Spreadsheet exercise 1)
+*   BGVW, Chapter 10 ([Spreadsheet exercise 1](https://github.com/etjernst/CBA/raw/master/docs/spreadsheets/Ex_10_1.xls))
 *   Skim/scan the following:
   *   [OMB Guidelines](http://www.whitehouse.gov/omb/circulars_a004_a-4)
   *   [UK Guidelines (The Green Book)](http://www.gov.uk/government/publications/the-green-book-appraisal-and-evaluation-in-central-governent)
@@ -372,7 +372,7 @@ _Note:_ All the spreadsheets are posted [here](https://github.com/etjernst/CBA/t
 #### October 14 - 21, 2019
 **Topic:** Uncertainty (I): Expected values, value of information, sensitivity analysis<br>
 **Readings & exercises:**<br>
-*   BGVW, Chapter 11 (Exercises 1, 3, 4 & 6; spreadsheet 5)
+*   BGVW, Chapter 11 (Exercises 1, 3, 4 & 6; [spreadsheet exercise 5](https://github.com/etjernst/CBA/raw/master/docs/spreadsheets/Ex_11_5.xls))
 *   BGVW, Case 11
 *   Take a look at [WSIPP displayed results:](http://www.wsipp.wa.gov/BenefitCost)
 *   David L. Weimer and Mark A. Sager, "Early Identification and Treatment of Alzheimer’s Disease: Social and Fiscal Outcomes," Alzheimer’s & Dementia 5(3) 2009, 215–226.
@@ -382,7 +382,7 @@ _Note:_ All the spreadsheets are posted [here](https://github.com/etjernst/CBA/t
 #### October 23, 2019
 **Topic:** Uncertainty (II): Option price and option value<br>
 **Readings & exercises:**<br>
-*   BGVW, Chapter 12 (Spreadsheet exercise 3)
+*   BGVW, Chapter 12 ([Spreadsheet exercise 3](https://github.com/etjernst/CBA/raw/master/docs/spreadsheets/Ex_12_3.xls))
 
 -----
 
