@@ -58,6 +58,18 @@ This CBA project will use detailed budgetary information and time-stamps from ta
 
 <span style="color:#c5050c"> Client:</span> Talip Kilic, Senior Economist at the World Bank Development Data Group
 
-## 4. TBD
+## 4. One Acre Fund _dukas_: a new kind of store for agricultural inputs
 
-> Due to a client falling ill with malaria, I am reaching out to numerous folks about a replacement project. I hope to have this figured out in the next few days. 
+Agricultural input markets in Sub-Saharan Africa (SSA) tend to have lax regulatory systems. Further, inputs like fertilizer and seeds are sold by relatively few, often small-scale, sellers who have outsized market power. Weak competition in this market means that sellers may be able to adulterate inputs and/or command high prices and still stay in business. A growing body of evidence shows that agricultural input markets in the region fall short of quality standards. Smallholder farmers are therefore paying higher costs and facing more uncertainty about the quality of the products that they are buying.
+
+![fertilizer](https://pbs.twimg.com/media/DIp3KNqUEAAAOo6?format=jpg&name=4096x4096)
+
+[One Acre Fund](https://oneacrefund.org) is a non-profit organization serving over 700,000 farm families in SSA. The NGO currently focuses on a program that provides farmers with a bundled package of training, in-kind credit, insurance, and access to high-quality inputs (fertilizers and hybrid seeds). Recent work shows that the 1AF program boosts Kenyan farmers’ per-acre yields by 24% and their profits by 16% ([Deutschmann et al., 2019](https://www.nber.org/papers/w26054)). However, even in Kenya where 1AF has its greatest reach, 90% of farm inputs are still sold through local agro-vets who do not necessarily maintain the same quality standards.
+
+![Angelina_Lukosi](https://oneacrefund.org/media/images/Auleliana_Lukosi_One_Acre_Fu.2e16d0ba.fill-1200x630-c100.jpg)
+
+Over the next few years, 1AF is opening a chain of agro-vets specializing in high-quality hybrid seeds and fertilizers. These stores will be owned and operated by 1AF. They currently have 4 stores in operation, with 6 more opening in 2019. Next year, they hope to scale to 150 stores.
+
+Based on cost and impact data from the existing stores, the CBA will evaluate the social welfare impacts of scaling this project. What are the likely direct effects on consumers? Might there be spillovers on markets through the competitive pressures on the existing local stores?
+
+<span style="color:#c5050c"> Client:</span> Patrick Bell, Deputy Country Director - Innovations at One Acre Fund
