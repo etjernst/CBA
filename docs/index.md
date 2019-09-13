@@ -299,6 +299,8 @@ _Exemption policy:_ Any student may petition for an exemption to the technology 
 
 ## Detailed schedule of readings
 
+_Note:_ All the spreadsheets are posted [here](spreadsheets/). I also link them below where relevant.
+
 #### September 4, 2019
 **Topic:** Introduction to CBA<br>
 **Readings & exercises:**
@@ -339,7 +341,7 @@ _Exemption policy:_ Any student may petition for an exemption to the technology 
   *   BGVW, Case 4
   *   BGVW, Chapter 5 (Exercise 2)
   *   BGVW, Chapter 6 (Exercise 1)
-  *   Robert H. Haveman and David L. Weimer, "[Public Policy Induced Changes in Employment: Valuation Issues for Benefit-Cost Analysis](/docs/papers/Haveman-Weimer-2015.pdf)," Journal of Benefit-Cost Analysis 6(1) 2015, 112–153. _[Skim]_
+  *   Robert H. Haveman and David L. Weimer, "[Public Policy Induced Changes in Employment: Valuation Issues for Benefit-Cost Analysis](papers/Haveman-Weimer-2015.pdf)," Journal of Benefit-Cost Analysis 6(1) 2015, 112–153. _[Skim]_
 
 -----
 
