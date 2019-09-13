@@ -13,30 +13,18 @@ other articles are.
 2. When you view an article in Google Scholar, there are several useful
 links below it:<br>  
 [![Google Scholar](img/google_scholar1.jpg)](https://scholar.google.com/scholar?lookup=0&q=Do+differences+in+attitudes+explain+differences+in+national+climate+change+policies%3F&hl=en&as_sdt=0,5)<br>  
-  2.1 The quotation marks on the left pull up a complete citation for the article, in several different formats.<br>
+  **2.1** The quotation marks on the left pull up a complete citation for the article, in several different formats.<br>
   ![Google Scholar](img/google_scholar2.jpg)  
-
-  2.2 Clicking "[Related articles](https://scholar.google.com/scholar?q=related:oLeukJQbX4kJ:scholar.google.com/&scioq=Do+differences+in+attitudes+explain+differences+in+national+climate+change+policies%3F&hl=en&as_sdt=0,5)" reveals articles that google's algorithm has picked as similar to the original article. This can be very useful at the beginning of your literature review.  
-
-  2.3 "[Cited by](https://scholar.google.com/scholar?cites=9898660830880118688&as_sdt=2005&sciodt=0,5&hl=en)" shows you all articles that cite the original article.
-
-  2.4 My favorite thing about Google Scholar: when you click on "Cited by," you get a searchable list of articles that cite the original article!
-
-  ![Google Scholar](img/google_scholar3.jpg)
-
-  And if you check the box "Search within citing articles," anything you type
-    in the search field will return results within the set of articles
-    that cite the first article. **This is very powerful.** For example, you may know about one or two seminal articles in the field, but they are a bit old and you want to learn about more recent research.
-
-  2.5 _Advanced search:_ if you click the burger menu in the top left corner of google scholar, you will get access to a menu that includes Advanced Search.
-  ![](https://www.dropbox.com/s/15i3626ldc9wlrt/gs3.png?dl=1)
-
-  Here, you can specify that you want to search for your keywords in (for example) the author field, or specify that some terms must appear, etc.
-
-  You can also specify a publication date range. This can be very useful if you are searching for keywords that may also be an author name.
+  **2.2** Clicking "[Related articles](https://scholar.google.com/scholar?q=related:oLeukJQbX4kJ:scholar.google.com/&scioq=Do+differences+in+attitudes+explain+differences+in+national+climate+change+policies%3F&hl=en&as_sdt=0,5)" reveals articles that google's algorithm has picked as similar to the original article. This can be very useful at the beginning of your literature review.  
+  **2.3** "[Cited by](https://scholar.google.com/scholar?cites=9898660830880118688&as_sdt=2005&sciodt=0,5&hl=en)" shows you all articles that cite the original article.  
+  **2.4** My favorite thing about Google Scholar: when you click on "Cited by," you get a searchable list of articles that cite the original article!  
+  ![Google Scholar](img/google_scholar3.jpg)  
+  And if you check the box "Search within citing articles," anything you type in the search field will return results within the set of articles that cite the first article. **This is very powerful.** For example, you may know about one or two seminal articles in the field, but they are a bit old and you want to learn about more recent research.  
+  **2.5** _Advanced search:_ if you click the burger menu in the top left corner of google scholar, you will get access to a menu that includes Advanced Search.  
+  ![](https://www.dropbox.com/s/15i3626ldc9wlrt/gs3.png?dl=1)<br>
+  Here, you can specify that you want to search for your keywords in (for example) the author field, or specify that some terms must appear, etc. You can also specify a publication date range. This can be very useful if you are searching for keywords that may also be an author name.
    > For example, if you were doing a cost-benefit analysis on wolf hunting regulations, you may want to search for articles that include the words "wolf" and "hunt" in the text or title, but you would not necessarily be interested in articles written by a Dr. Hunt, or a Professor Wolf.
-
-![](https://www.dropbox.com/s/9sj4exvwki0fsnj/gs4.png?dl=1)
+  ![](https://www.dropbox.com/s/9sj4exvwki0fsnj/gs4.png?dl=1)
 
 
 
