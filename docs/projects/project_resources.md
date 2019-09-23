@@ -42,3 +42,5 @@ _Heated debate on gender-related education impacts:_
 * [Ashour et al](https://www.tandfonline.com/doi/full/10.1080/00220388.2018.1464143)
 * [Deutschmann et al](https://www.nber.org/papers/w26054)
 * [Bold et al](https://academic.oup.com/qje/article/132/3/1055/3064350)
+* [One Acre Fund impact scale](https://oneacrefund.org/impact/)
+* [Measuring Social Return on Investment](https://canvas.wisc.edu/files/9523256/download?download_frd=1)
