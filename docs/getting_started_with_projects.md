@@ -25,3 +25,88 @@ Describe the issue you are tackling in your CBA, and lay out a plan for completi
 Prepare a complete report on the data that you have from your client, as well as other data sources. Show clearly that you have begun working with and understand the data.
 
 I encourage you to present summary statistics and basic figures describing your data. Describe how you plan to use the data to compute costs and benefits and note any data sources that you are still missing or assembling.
+
+#### Project report 3
+
+<p>This third project report involves producing a draft list of the alternatives that your CBA will consider, together with the categories of costs and benefits that you plan to include in your analysis. Further, you should begin specifying how you will measure these different costs and benefits.</p>
+<p>Successful completion of this assignment will feed directly in to the overall course objectives of learning</p>
+<ul>
+<li>how to grasp the main tools and concepts of cost-benefit analysis, and</li>
+<li>how to communicate a policy-analytic method to investigate the problem, and</li>
+<li>how to identify the elements that may compromise the validity of an CBA (such as overly extreme assumptions, data limitations.</li>
+</ul>
+<p>At the top of your report, please list and briefly describe the various alternatives that you are considering in your CBA.</p>
+<p>Second, please produce a table briefly describing the cost and benefit categories, and which alternative you expect them to occur in. For example, you can indicate this with Xs and/or rough timelines as in the Table below describing a CBA centered around the example of invasive species management.</p>
+<table style="width: 100%; border-collapse: collapse; height: 336px;" border="0">
+<tbody>
+<tr style="height: 24px;">
+<td style="width: 25.2532%; height: 24px;"></td>
+<td style="width: 24.7468%; height: 24px;"><strong>Status quo</strong></td>
+<td style="width: 25%; height: 24px;"><strong>Alternative 1 - species control</strong></td>
+<td style="width: 25%; height: 24px;"><strong>Alternative 2 - species eradication</strong></td>
+</tr>
+<tr style="height: 24px;">
+<td style="width: 25.2532%; height: 24px;"><strong>Costs</strong></td>
+<td style="width: 24.7468%; height: 24px;"></td>
+<td style="width: 25%; height: 24px;"></td>
+<td style="width: 25%; height: 24px;"></td>
+</tr>
+<tr style="height: 24px;">
+<td style="width: 25.2532%; height: 24px;">Fixed implementation cost (e.g., investment in durable tools used to kill the invasive)</td>
+<td style="width: 24.7468%; height: 24px;"></td>
+<td style="width: 25%; height: 24px;"></td>
+<td style="width: 25%; height: 24px;">X (one-time purchase)</td>
+</tr>
+<tr style="height: 24px;">
+<td style="width: 25.2532%; height: 24px;">Marginal implementation cost 1 (e.g., labor costs associated with controlling an invasive species, protective equipment for workers, herbicides)</td>
+<td style="width: 24.7468%; height: 24px;"></td>
+<td style="width: 25%; height: 24px;">X (in perpetuity)</td>
+<td style="width: 25%; height: 24px;">X (only the first 10 years)</td>
+</tr>
+<tr style="height: 96px;">
+<td style="width: 25.2532%; height: 96px;">Marginal implementation cost 2 (e.g., yearly information campaign to encourage local population to help combat the invasive)</td>
+<td style="width: 24.7468%; height: 96px;"></td>
+<td style="width: 25%; height: 96px;">X (in perpetuity)</td>
+<td style="width: 25%; height: 96px;">X (only the first 5 years; after that population will have dwindled)</td>
+</tr>
+<tr style="height: 24px;">
+<td style="width: 25.2532%; height: 24px;"></td>
+<td style="width: 24.7468%; height: 24px;"></td>
+<td style="width: 25%; height: 24px;"></td>
+<td style="width: 25%; height: 24px;"></td>
+</tr>
+<tr style="height: 24px;">
+<td style="width: 25.2532%; height: 24px;"><strong>Benefits of control</strong></td>
+<td style="width: 24.7468%; height: 24px;"></td>
+<td style="width: 25%; height: 24px;"></td>
+<td style="width: 25%; height: 24px;"></td>
+</tr>
+<tr style="height: 24px;">
+<td style="width: 25.2532%; height: 24px;">Reduced health effects from invasive (it is a known vector for&nbsp;leptospirosis)</td>
+<td style="width: 24.7468%; height: 24px;"></td>
+<td style="width: 25%; height: 24px;"></td>
+<td style="width: 25%; height: 24px;"></td>
+</tr>
+<tr style="height: 24px;">
+<td style="width: 25.2532%; height: 24px;">Increases in rare local flower population (the invasive species likes to eat the rare local flower)</td>
+<td style="width: 24.7468%; height: 24px;"></td>
+<td style="width: 25%; height: 24px;">X</td>
+<td style="width: 25%; height: 24px;">X (increasing over the time period; after 10 years the invasive species is eradicated &amp; flower population reaches steady-state)</td>
+</tr>
+<tr style="height: 24px;">
+<td style="width: 25.2532%; height: 24px;">Increases in tourism (tourists like to see the rare flower, and don't like the invasive species)</td>
+<td style="width: 24.7468%; height: 24px;"></td>
+<td style="width: 25%; height: 24px;">X&nbsp;</td>
+<td style="width: 25%; height: 24px;">X (more than in control scenario)</td>
+</tr>
+<tr style="height: 24px;">
+<td style="width: 25.2532%; height: 24px;"></td>
+<td style="width: 24.7468%; height: 24px;"></td>
+<td style="width: 25%; height: 24px;"></td>
+<td style="width: 25%; height: 24px;"></td>
+</tr>
+</tbody>
+</table>
+<p>Once you have this table, please systematically describe the different cost and benefit categories in more detail.</p>
+<p>Begin to sketch out how you will measure each of the categories, and where the data will come from. Be careful to note whether costs are one-time or ongoing. Also note that the main point of this assignment is to help your team plan for the remainder of the semester.</p>
+<p>In other words, while you should do your best with the assignment, don't freak out if you are unable at this point to produce a perfect report &ndash; you will keep working on this for the rest of the semester!</p>
