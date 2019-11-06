@@ -1,3 +1,7 @@
+<script type="text/javascript" async
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+
 ## Code for simple Monte Carlo exercise
 
 ```Stata
@@ -15,9 +19,10 @@
 
 * assumes
     * Add any dependencies here
+    <div style="background-color:##BCE954">
     * for packages, make a local with the packages
     local userpack ""
-
+    </div>
 * TO DO:
     * You can add next steps here if useful (or things that need to be done before code is useful)
 
