@@ -13,7 +13,7 @@ the world's largest population of endemic coco-de-mer (*Lodoicea
 maldivica*), an endangered species of global significance as the bearer
 of the largest seed in the plant kingdom.
 
-![cocodemer](/img/cocodemer.png)
+![cocodemer](../img/cocodemer.png)
 
 The forest is also home to
 five other endemic palms and many endemic fauna species, including the
@@ -23,7 +23,7 @@ and 900 birds, the Seychelles black parrot is threatened; it is also the
 national bird of the Seychelles. The Vallée de Mai was declared a UNESCO
 World Heritage Site in 1983.
 
-![blackParrot](/img/parrot.png)
+![blackParrot](../img/parrot.png)
 
 Tourism is the most important sector in the Seychellois economy,
 accounting for well over 50% of national GDP. The Seychelles tourism
@@ -112,7 +112,7 @@ lost revenue due to rats is the following:<br>
 
 \(50*\left( rat\ population - 19 \right)^{2}\)
 
-![Rats!](/img/rats.png)
+![Rats!](../img/rats.png)
 
 
 ### Sensitivity analysis
