@@ -32,7 +32,7 @@ Vallée de Mai. In recent years, approximately 121,000 people visited the
 World Heritage Site.
 
 ### Details
-{::options parse_block_html="false" \}
+{::options parse_block_html="false" /}
 Black rats (*Rattus rattus*) prey on young black parrots. The Seychelles
 Island Foundation (SIF) [^1] have estimated that rats cause the deaths
 of approximately 30% of parrot chicks prior to fledging. They also
@@ -40,6 +40,7 @@ threaten coco-de-mer and other trees by eating the tender shoots.
 Comments recorded on tripadvisor.com indicate that tourists
 dislike seeing rats in a place that is described in tourist
 brochures as a Garden of Eden.[^2]
+{::options parse_block_html="true" /}
 
 After some limited initial trials on rat control, researchers at SIF
 estimate the current population density of black rats in Vallée de Mai
@@ -127,10 +128,11 @@ vary between 0.1 and 0.2 (assume that the variable is distributed uniformly).
   > $$ 75 \times \left( rat population-19 \right)^{2} $$.
 
 #### Footnotes
-{::options parse_block_html="false" \}
+
+{::options parse_block_html="false" /}
 [^1]: SIF is a public trust that operates the Vallée de Mai on behalf of
 the Seychelles government.<br>
-{::options parse_block_html="false" \}
+
 [^2]: We will not attempt to place a monetary value on the dead parrots in
 this exercise. 
 
