@@ -25,6 +25,8 @@ of user-created packages (with an example: `winsor`):
     local userpack "winsor2"
  ```
  
+This part is as before: 
+
 ```Stata 
 * TO DO:
     * You can add next steps here if useful (or things that need to be done before code is useful)
