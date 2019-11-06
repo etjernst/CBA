@@ -128,8 +128,8 @@ vary between 0.1 and 0.2 (assume that the variable is distributed uniformly).
   > $$ 75 \times \left( rat population-19 \right)^{2} $$.
 
 #### Footnotes
-{::options parse_block_html="false" /}
+{::options parse_block_html="false" 
 [^1]: SIF is a public trust that operates the Vallée de Mai on behalf of
 the Seychelles government.<br>
 [^2]: We will not attempt to place a monetary value on the dead parrots in
-this exercise.
+this exercise. /}
