@@ -98,7 +98,7 @@ rupees per case, and SIF staff have estimated that 1 case of
 leptospirosis originates in Vallée de Mai each year at current
 infestation levels. We will assume that the number of cases of
 leptospirosis originating in Vallée de Mai is a linear function of the
-population density of rats (i.e., the damage $$= frac{1}{19} \times $$ the population of rats).
+population density of rats (i.e., the damage $$ = frac{1}{19} \times $$ the population of rats).
 
 While 121,000 international tourists
 currently visit Vallée de Mai each year, staff at SIF believe that
@@ -110,7 +110,7 @@ further 170 rupees in the café and gift shop operated by the Seychelles
 Island Foundation, on average. They estimate that the total amount of
 lost revenue due to rats is the following:<br>
 
-$$ 50*\left( rat\ population - 19 \right)^{2} $$
+$$ 50 \times \left( rat\ population - 19\right))^{2} $$
 
 ![Rats!](../img/rats.png)
 
@@ -118,11 +118,12 @@ $$ 50*\left( rat\ population - 19 \right)^{2} $$
 ### Sensitivity analysis
 
 1. *What if we were uncertain about the growth rate under trapping?*<br>
-Conduct a Monte Carlo simulation allowing the growth rate, $c$, to
+  > Conduct a Monte Carlo simulation allowing the growth rate, $c$, to
 vary between 0.1 and 0.2 (assume that the variable is distributed uniformly).
 2.  *What if we are uncertain about the number of missing tourists due to rats?*<br> 
-Allow it to vary between $$ 25 \times ( rat population-19 )^2 \) and
-$$ 75 \times ( rat population-19)^2 $$.
+  > Allow it to vary between<br>
+  > $$ 25 \times \left( rat population-19 \right)^{2} $$ and<br>
+  > $$ 75 \times \left( rat population-19 \right)^{2} $$.
 
 #### Footnotes
 $$ ^1 $$ SIF is a public trust that operates the Vallée de Mai on behalf of
