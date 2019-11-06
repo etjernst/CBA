@@ -33,12 +33,12 @@ World Heritage Site.
 
 ### Details
 Black rats (*Rattus rattus*) prey on young black parrots. The Seychelles
-Island Foundation (SIF) [ $$ ^1 $$ ](#footnotes) have estimated that rats cause the deaths
+Island Foundation (SIF) [^1] have estimated that rats cause the deaths
 of approximately 30% of parrot chicks prior to fledging. They also
 threaten coco-de-mer and other trees by eating the tender shoots.
 Comments recorded on tripadvisor.com indicate that tourists
 dislike seeing rats in a place that is described in tourist
-brochures as a Garden of Eden.[ $$ ^2 $$ ](#footnotes)
+brochures as a Garden of Eden.[^2]
 
 After some limited initial trials on rat control, researchers at SIF
 estimate the current population density of black rats in Vallée de Mai
@@ -98,7 +98,7 @@ rupees per case, and SIF staff have estimated that 1 case of
 leptospirosis originates in Vallée de Mai each year at current
 infestation levels. We will assume that the number of cases of
 leptospirosis originating in Vallée de Mai is a linear function of the
-population density of rats (i.e., the damage $$ = frac{1}{19} \times $$ the population of rats).
+population density of rats (i.e., the damage $$ = \frac{1}{19} \times $$ the rat population).
 
 While 121,000 international tourists
 currently visit Vallée de Mai each year, staff at SIF believe that
@@ -126,7 +126,7 @@ vary between 0.1 and 0.2 (assume that the variable is distributed uniformly).
   > $$ 75 \times \left( rat population-19 \right)^{2} $$.
 
 #### Footnotes
-$$ ^1 $$ SIF is a public trust that operates the Vallée de Mai on behalf of
+[^1]: SIF is a public trust that operates the Vallée de Mai on behalf of
 the Seychelles government.<br>
-$$ ^2 $$ We will not attempt to place a monetary value on the dead parrots in
+[^2]: We will not attempt to place a monetary value on the dead parrots in
 this exercise.
