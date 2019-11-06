@@ -1,4 +1,4 @@
-## Code for simple Monte Carlo exercise
+## Code to check packages
 
 ```Stata
 * **********************************************************************
@@ -17,7 +17,8 @@
     * Add any dependencies here
 ```
 
-**This is new; shows where you would add the names of user-installed packages (with an example)**
+This part is new and shows where you would add the names<br>
+of user-created packages (with an example: `winsor`):
 
 ```Stata
     * for packages, make a local with the packages
@@ -37,7 +38,7 @@
     global mainFolder "$myDocs/PA881/stata"
 ```
 
-**...then this is the code to actually check if the user has the required package**
+...and then this is the code to actually check if the user has the required package
 
 ```Stata
 * Check if the required packages are installed:
