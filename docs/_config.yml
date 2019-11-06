@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+theme: minimal-mistakes-jekyll
 kramdown:
   parse_block_html: true
   syntax_highlighter_opts:
