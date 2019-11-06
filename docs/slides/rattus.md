@@ -130,8 +130,7 @@ vary between 0.1 and 0.2 (assume that the variable is distributed uniformly).
 #### Footnotes
 
 {::options parse_block_html="false" /}
-[^1]: SIF is a public trust that operates the Vallée de Mai on behalf of
-the Seychelles government.<br>
+[^1]: SIF is a public trust that operates the Vallée de Mai on behalf of the Seychelles government.
 
 [^2]: We will not attempt to place a monetary value on the dead parrots in
 this exercise. 
