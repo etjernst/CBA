@@ -31,8 +31,8 @@ agency estimates that 40% of all of international tourists visit the
 Vallée de Mai. In recent years, approximately 121,000 people visited the
 World Heritage Site.
 
-{::options parse_block_html="false" \}
 ### Details
+{::options parse_block_html="false" \}
 Black rats (*Rattus rattus*) prey on young black parrots. The Seychelles
 Island Foundation (SIF) [^1] have estimated that rats cause the deaths
 of approximately 30% of parrot chicks prior to fledging. They also
