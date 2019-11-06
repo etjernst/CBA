@@ -403,8 +403,8 @@ _Note:_ All the spreadsheets are posted [here](https://github.com/etjernst/CBA/t
 #### November 4, 2019
 **Topic:** What is different about CBA in developing countries?<br>
 **Readings:**<br>
-*   Brent, Robert J. 2009. "Cost-Benefit Analysis and the Evaluation of the Effects of Corruption on Public Projects." Handbook of Research on Cost-Benefit Analysis, 388.
-*   Quah, Euston. 2017. "Using Cost-Benefit Analysis In Developed And Developing Countries: Is It The Same?" Macroeconomic Review. Monetary Authority of Singapore, Economic Policy Group.<br>
+*   Brent, Robert J. 2009. "[Cost-Benefit Analysis and the Evaluation of the Effects of Corruption on Public Projects](https://canvas.wisc.edu/files/10145036/download?download_frd=1)." Handbook of Research on Cost-Benefit Analysis, 388.
+*   Quah, Euston. 2017. "[Using Cost-Benefit Analysis In Developed And Developing Countries: Is It The Same?](https://canvas.wisc.edu/files/10145034/download?download_frd=1)" Macroeconomic Review. Monetary Authority of Singapore, Economic Policy Group.<br>
 
 -----
 
@@ -418,10 +418,10 @@ _Note:_ All the spreadsheets are posted [here](https://github.com/etjernst/CBA/t
 #### November 11, 2019
 **Topic:** Valuing life and time<br>
 **Readings:**<br>
-*   Belenky, Peter. 2011. "Revised Departmental Guidance on Valuation of Travel Time in Economic Analysis." _(Read: pp. 1-2, 11-14, skim the rest)_
-*   León, Gianmarco, and Edward Miguel. 2017. "Risky Transportation Choices and the Value of a Statistical Life." American Economic Journal: Applied Economics 9 (1): 202–28.
-*   Fezzi, Carlo, Ian J. Bateman, and Silvia Ferrini. 2014. "Using Revealed Preferences to Estimate the Value of Travel Time to Recreation Sites." Journal of Environmental Economics and Management 67 (1): 58–70.
-*   Wolff, Hendrik. 2014. "Value of Time: Speeding Behavior and Gasoline Prices." Journal of Environmental Economics and Management 67 (1): 71–88.
+*   Belenky, Peter. 2011. "[Revised Departmental Guidance on Valuation of Travel Time in Economic Analysis](https://canvas.wisc.edu/files/9419231/download?download_frd=1)." _(Read: pp. 1-2, 11-14, skim the rest)_
+*   León, Gianmarco, and Edward Miguel. 2017. "[Risky Transportation Choices and the Value of a Statistical Life](https://canvas.wisc.edu/files/9419208/download?download_frd=1)." American Economic Journal: Applied Economics 9 (1): 202–28.
+*   Fezzi, Carlo, Ian J. Bateman, and Silvia Ferrini. 2014. "[Using Revealed Preferences to Estimate the Value of Travel Time to Recreation Sites](https://canvas.wisc.edu/files/9419193/download?download_frd=1)." Journal of Environmental Economics and Management 67 (1): 58–70.
+*   Wolff, Hendrik. 2014. "[Value of Time: Speeding Behavior and Gasoline Prices](https://canvas.wisc.edu/files/9419224/download?download_frd=1)." Journal of Environmental Economics and Management 67 (1): 71–88.
 
 -----
 
@@ -438,7 +438,7 @@ _Note:_ All the spreadsheets are posted [here](https://github.com/etjernst/CBA/t
 **Readings & exercises**<br>
 *   BGVW, Ch 15 (Spreadsheet exercise 3)
 *   BGVW, Case 17
-*   Weimer, David L., and Michael J. Wolkoff. 2001\. "School Performance and Housing Values: Using Non- Contiguous District and Incorporation Boundaries to Identify School Effects." National Tax Journal 54 (2): 231–53.
+*   Weimer, David L., and Michael J. Wolkoff. 2001\. "[School Performance and Housing Values: Using Non- Contiguous District and Incorporation Boundaries to Identify School Effects](https://canvas.wisc.edu/files/9419221/download?download_frd=1)." National Tax Journal 54 (2): 231–53.
 
 -----
 
