@@ -33,21 +33,22 @@ World Heritage Site.
 
 ### Details
 Black rats (*Rattus rattus*) prey on young black parrots. The Seychelles
-Island Foundation (SIF)[$^1$](#footnotes) have estimated that rats cause the deaths
+Island Foundation (SIF) [ \( ^1 \) ](#footnotes) have estimated that rats cause the deaths
 of approximately 30% of parrot chicks prior to fledging. They also
 threaten coco-de-mer and other trees by eating the tender shoots.
 Comments recorded on tripadvisor.com indicate that tourists
 dislike seeing rats in a place that is described in tourist
-brochures as a Garden of Eden.[$^2$](#footnotes)
+brochures as a Garden of Eden.[ \( ^2 \) ](#footnotes)
 
 After some limited initial trials on rat control, researchers at SIF
 estimate the current population density of black rats in Vallée de Mai
 to be 19 rats per hectare (380 rats total in Vallée de Mai). The
 scientific literature estimates that the growth and spread of *rattus
 rattus* follows a standard logistic growth function:<br>
-\(g\left( N \right) = bN_{0}\lbrack 1 - \frac{N_{0}}{N_{\max}}\rbrack\),<br>
-where \(g\left( N \right)\) is the annual change in the rat population,
-and \(b\) is the intrinsic growth rate.
+\[ g\left( N \right) = bN_{0}\lbrack 1 - \frac{N_{0}}{N_{\max}}\rbrack \]
+
+where \( g(N) \) is the annual change in the rat population,
+and \( b \) is the intrinsic growth rate.
 
 With no intervention, we believe
 that the intrinsic growth rate of the rats is 0.7, as black rats are
@@ -97,8 +98,7 @@ rupees per case, and SIF staff have estimated that 1 case of
 leptospirosis originates in Vallée de Mai each year at current
 infestation levels. We will assume that the number of cases of
 leptospirosis originating in Vallée de Mai is a linear function of the
-population density of rats (i.e., the damage = $\frac{1}{19} \times$ population of
-rats).
+population density of rats (i.e., the damage = \( frac{1}{19} \times \) the population of rats).
 
 While 121,000 international tourists
 currently visit Vallée de Mai each year, staff at SIF believe that
@@ -110,7 +110,7 @@ further 170 rupees in the café and gift shop operated by the Seychelles
 Island Foundation, on average. They estimate that the total amount of
 lost revenue due to rats is the following:<br>
 
-\(50*\left( rat\ population - 19 \right)^{2}\)
+\[ 50*\left( rat\ population - 19 \right)^{2} \]
 
 ![Rats!](../img/rats.png)
 
@@ -122,13 +122,13 @@ lost revenue due to rats is the following:<br>
     vary between 0.1 and 0.2 (assume that the variable is distributed uniformly).*
 
 2.  *What if we are uncertain about the number of missing tourists due
-    to rats? Allow it to vary between 25\*(rat population-19)^2 and
-    75\*(rat population-19)^2.*
+    to rats? Allow it to vary between \( 25 \times ( rat population-19 )^2 \) and
+    \( 75 \times ( rat population-19)^2 \).*
 
 <!-- end list -->
 
 #### Footnotes
-$^1$ SIF is a public trust that operates the Vallée de Mai on behalf of
+\( ^1 \) SIF is a public trust that operates the Vallée de Mai on behalf of
     the Seychelles government.<br>
-$^2$ We will not attempt to place a monetary value on the dead parrots in
+\( ^2 \) We will not attempt to place a monetary value on the dead parrots in
     this exercise.
