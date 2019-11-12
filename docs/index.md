@@ -280,15 +280,15 @@ _Exemption policy:_ Any student may petition for an exemption to the technology 
 |Wed	|10/23/19	|Uncertainty (II)| |Ingraham 222|
 |Mon	|10/28/19	|Life cycle analysis| |Ingraham 222|
 |Wed	|10/30/19	|Midterm| |Ingraham 222|
-|Mon	|11/4/19	|CBA in developing countries| |Ingraham 222|
-|Wed	|11/6/19	|Stata workshop|Read & do Stata handout |Ingraham 222|
-|Mon	|11/11/19	|Valuing life & time| |Ingraham 222|
-|Wed	|11/13/19	|Revealed preferences & research designs| |Ingraham 222|
-|Mon	|11/18/19	|Revealed preferences & research designs| |Ingraham 222|
-|Wed	|11/20/19	|Stated preferences| |Ingraham 222|
+|Mon	|11/4/19	|Stata and Monte Carlo basics| |Ingraham 222|
+|Wed	|11/6/19	|Practical examples | |Ingraham 222|
+|Mon	|11/11/19	|Practical examples| |Ingraham 222|
+|Wed	|11/13/19	|What is different about CBA in developing countries?| |Ingraham 222|
+|Mon	|11/18/19	|Valuing life and time| |Ingraham 222|
+|Wed	|11/20/19	|Valuing life and time| |Ingraham 222|
 |Mon	|11/25/19	| Team consultations |1st draft |Ingraham 222|
 |Wed	|11/27/19	| Gobble gobble | | _No in-class meeting_ |
-|Mon	|12/2/19	|Catch-up class| |Ingraham 222|
+|Mon	|12/2/19	| Revealed vs. stated preferences| |Ingraham 222|
 |Wed	|12/4/19	|Presentations| Peer feedback + questions due before class |Ingraham 222|
 |Mon	|12/9/19	|Presentations| |Ingraham 222|
 |Wed	|12/11/19	|Presentations| | |Ingraham 222|
@@ -401,6 +401,18 @@ _Note:_ All the spreadsheets are posted [here](https://github.com/etjernst/CBA/t
 -----
 
 #### November 4, 2019
+**Topic:** Stata & Monte Carlo basics<br>
+
+---
+
+#### November 6 - 11, 2019
+**Topic:** Practical examples<br>
+* Forestalling flooding in Fiji
+* _rattus rattus_ in Vallée de Mai
+
+---
+
+#### November 13
 **Topic:** What is different about CBA in developing countries?<br>
 **Readings:**<br>
 *   Brent, Robert J. 2009. "[Cost-Benefit Analysis and the Evaluation of the Effects of Corruption on Public Projects](https://canvas.wisc.edu/files/10145036/download?download_frd=1)." Handbook of Research on Cost-Benefit Analysis, 388.
@@ -408,82 +420,46 @@ _Note:_ All the spreadsheets are posted [here](https://github.com/etjernst/CBA/t
 
 -----
 
-#### November 6, 2019
-**Topic:** Stata workshop<br>
-**Assignments:**<br>
-* Read Stata handout
-
------
-
-#### November 11, 2019
+#### November 18 - 20, 2019
 **Topic:** Valuing life and time<br>
 **Readings:**<br>
-*   Belenky, Peter. 2011. "[Revised Departmental Guidance on Valuation of Travel Time in Economic Analysis](https://canvas.wisc.edu/files/9419231/download?download_frd=1)." _(Read: pp. 1-2, 11-14, skim the rest)_
-*   León, Gianmarco, and Edward Miguel. 2017. "[Risky Transportation Choices and the Value of a Statistical Life](https://canvas.wisc.edu/files/9419208/download?download_frd=1)." American Economic Journal: Applied Economics 9 (1): 202–28.
-*   Fezzi, Carlo, Ian J. Bateman, and Silvia Ferrini. 2014. "[Using Revealed Preferences to Estimate the Value of Travel Time to Recreation Sites](https://canvas.wisc.edu/files/9419193/download?download_frd=1)." Journal of Environmental Economics and Management 67 (1): 58–70.
-*   Wolff, Hendrik. 2014. "[Value of Time: Speeding Behavior and Gasoline Prices](https://canvas.wisc.edu/files/9419224/download?download_frd=1)." Journal of Environmental Economics and Management 67 (1): 71–88.
+*   León, Gianmarco and Edward Miguel. 2017. "[Risky Transportation Choices and the Value of a Statistical Life](https://canvas.wisc.edu/files/9419208/download?download_frd=1)." American Economic Journal: Applied Economics 9 (1): 202–28.
+* Kremer, Michael, Jessica, Leino, Edward Miguel, and Alix Peterson Zwane. 2009. "[Spring Cleaning: Rural Water Impacts, Valuation, and Property Rights Institutions](https://canvas.wisc.edu/files/10217624/download?download_frd=1)"
+  * _focus on Sections I, II, and IV_
+* Barofsky, Jeremy and Peter Younger. 2019. "[The Effect of Government Health Expenditure on the Income Distribution: A Comparison of Valuation Methods in Ghana](https://canvas.wisc.edu/files/10217603/download?download_frd=1)"<br>
+**by 11/19 (11:59), submit [on Canvas](https://canvas.wisc.edu/courses/164882/assignments/681440) a brief discussion on the readings** (1/2 to 1 page max)<br>
+In your response, please answer point (i) and at least 1 of points (ii) - (vi):<br>
+> (i) What are the main differences between the approach in this paper and that in León & Miguel (2017) and Kremer et al (2009)?
+> (ii) What is the most important point made in this paper?<br>
+> (iii) What are the main complexities of this issue?<br>
+> (iv) Who is the audience for this study?<br>
+> (v) Critically evaluate the criteria that the authors present for choosing between methods.<br>
+> (vi) What prior experience or knowledge do you have that this reading either contradicts or agrees with?<br>
 
------
-
-#### November 13, 2019
-**Topic:**    Revealed preferences: experiments & natural experiments <br>
-**Readings:**<br>
-*   BGVW, Chapter 14 (Exercise 2)
-*   BGVW, Case 14
-
------
-
-#### November 18, 2019
-**Topic:**     Revealed preferences: observational studies<br>
-**Readings & exercises**<br>
-*   BGVW, Ch 15 (Spreadsheet exercise 3)
-*   BGVW, Case 17
-*   Weimer, David L., and Michael J. Wolkoff. 2001\. "[School Performance and Housing Values: Using Non- Contiguous District and Incorporation Boundaries to Identify School Effects](https://canvas.wisc.edu/files/9419221/download?download_frd=1)." National Tax Journal 54 (2): 231–53.
-
------
-
-#### November 20, 2019
-**Topic:** Stated preferences: good practices<br>
-**Readings:**<br>
-*   BGVW, Chapter 13
-*   BGVW, Chapter 16 (Exercise 2)
-*   BGVW, Case 16
+Optional:
+  > *   Belenky, Peter. 2011. "[Revised Departmental Guidance on Valuation of Travel Time in Economic Analysis](https://canvas.wisc.edu/files/9419231/download?download_frd=1)." _(Read: pp. 1-2, 11-14, skim the rest)_
+  > *   Fezzi, Carlo, Ian J. Bateman, and Silvia Ferrini. 2014. "[Using Revealed Preferences to Estimate the Value of Travel Time to Recreation Sites](https://canvas.wisc.edu/files/9419193/download?download_frd=1)." Journal of Environmental Economics and Management 67 (1): 58–70.
+  > *   Wolff, Hendrik. 2014. "[Value of Time: Speeding Behavior and Gasoline Prices](https://canvas.wisc.edu/files/9419224/download?download_frd=1)." Journal of Environmental Economics and Management 67 (1): 71–88.
 
 -----
 
 #### November 25, 2019
 **Topic:** Project consultations<br>
 **Assignments:**<br>
-  1. Bring your project reports ready to discuss
+  * Bring your project reports ready to discuss
 
 -----
 
-#### November 27, 2019
-**Topic:** Gobble gobble<br>
+#### December 2 , 2019
+**Topic:**  Revealed vs. stated preferences <br>
 **Readings:**<br>
-**Assignments:**<br>
-  * No class today -- work on peer review on your own time
+*   BGVW, Chapter 13 & 16
 
 -----
 
-#### December 2, 2019
-**Topic:** Catch-up class<br>
-**Readings:**<br>
-* TBD
-
------
-
-#### December 4, 2019
+#### December 4 - 11, 2019
 **Topic:** Project presentations!<br>
 
------
-
-#### December 9, 2019
-**Topic:** Project presentations!<br>
-
------
-
-#### December 11, 2019
-**Topic:** Project presentations!<br>
+<br>
 
 [Back to top](#welcome-to-pa-881)
