@@ -281,17 +281,17 @@ _Exemption policy:_ Any student may petition for an exemption to the technology 
 |Mon	|10/28/19	|Life cycle analysis| |Ingraham 222|
 |Wed	|10/30/19	|Midterm| |Ingraham 222|
 |Mon	|11/4/19	|Stata and Monte Carlo basics| |Ingraham 222|
-|Wed	|11/6/19	|Practical examples | |Ingraham 222|
-|Mon	|11/11/19	|Practical examples| |Ingraham 222|
-|Wed	|11/13/19	|What is different about CBA in developing countries?| |Ingraham 222|
-|Mon	|11/18/19	|Valuing life and time| |Ingraham 222|
-|Wed	|11/20/19	|Valuing life and time| |Ingraham 222|
-|Mon	|11/25/19	| Team consultations |1st draft |Ingraham 222|
+|Wed	|11/6/19	|Practical examples | |Taylor Hall 103|
+|Mon	|11/11/19	|Practical examples| |Taylor Hall 103|
+|Wed	|11/13/19	|What is different about CBA in developing countries?| |Taylor Hall 103|
+|Mon	|11/18/19	|Valuing life and time| |Taylor Hall 103|
+|Wed	|11/20/19	|Valuing life and time| |Taylor Hall 103|
+|Mon	|11/25/19	| Team consultations |1st draft |Taylor Hall 103|
 |Wed	|11/27/19	| Gobble gobble | | _No in-class meeting_ |
-|Mon	|12/2/19	| Revealed vs. stated preferences| |Ingraham 222|
-|Wed	|12/4/19	|Presentations| Peer feedback + questions due before class |Ingraham 222|
-|Mon	|12/9/19	|Presentations| |Ingraham 222|
-|Wed	|12/11/19	|Presentations| | |Ingraham 222|
+|Mon	|12/2/19	| Revealed vs. stated preferences| |Taylor Hall 103|
+|Wed	|12/4/19	|Presentations| Peer feedback + questions due before class |Taylor Hall 103|
+|Mon	|12/9/19	|Presentations| |Taylor Hall 103|
+|Wed	|12/11/19	|Presentations| |Taylor Hall 103|
 
 [Back to top](#welcome-to-pa-881)
 
@@ -429,7 +429,7 @@ _Note:_ All the spreadsheets are posted [here](https://github.com/etjernst/CBA/t
 * Barofsky, Jeremy and Peter Younger. 2019. "[The Effect of Government Health Expenditure on the Income Distribution: A Comparison of Valuation Methods in Ghana](https://canvas.wisc.edu/files/10217603/download?download_frd=1)"<br>
 **by 11/19 (11:59), submit [on Canvas](https://canvas.wisc.edu/courses/164882/assignments/681440) a brief discussion on the readings** (1/2 to 1 page max)<br>
 In your response, please answer point (i) and at least 1 of points (ii) - (vi):<br>
-> (i) What are the main differences between the approach in this paper and that in León & Miguel (2017) and Kremer et al (2009)?
+> (i) What are the main differences between the approach in this paper and that in León & Miguel (2017) and Kremer et al (2009)?<br>
 > (ii) What is the most important point made in this paper?<br>
 > (iii) What are the main complexities of this issue?<br>
 > (iv) Who is the audience for this study?<br>
